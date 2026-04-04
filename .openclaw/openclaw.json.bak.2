@@ -1,0 +1,73 @@
+{
+  "wizard": {
+    "lastRunAt": "2026-03-28T04:57:50.931Z",
+    "lastRunVersion": "2026.3.13",
+    "lastRunCommand": "onboard",
+    "lastRunMode": "local"
+  },
+  "agents": {
+    "defaults": {
+      "workspace": "C:\\Users\\Admin\\.openclaw\\workspace"
+    }
+  },
+  "tools": {
+    "profile": "coding"
+  },
+  "commands": {
+    "native": "auto",
+    "nativeSkills": "auto",
+    "restart": true,
+    "ownerDisplay": "raw"
+  },
+  "session": {
+    "dmScope": "per-channel-peer"
+  },
+  "gateway": {
+    "port": 18789,
+    "mode": "local",
+    "bind": "loopback",
+    "auth": {
+      "mode": "token",
+      "token": "3a2a12e9c5c709c4eb4c000ae811d2101a96c79ad68d6199"
+    },
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    }
+  },
+  "skills": {
+    "install": {
+      "nodeManager": "npm"
+    }
+  },
+  "models": {
+    "providers": {
+      "cliproxy": {
+        "baseUrl": "http://127.0.0.1:8317/v1",
+        "apiKey": "sk-cliproxy-key-123",
+        "api": "openai-responses",
+        "models": [
+          {
+            "id": "gemini-1.5-flash",
+            "name": "Gemini 1.5 Flash (Prio 1)",
+            "contextWindow": 1000000
+          },
+          {
+            "id": "gemini-1.5-pro",
+            "name": "Gemini 1.5 Pro (Prio 2)",
+            "contextWindow": 2000000
+          },
+          {
+            "id": "claude-3-opus-20240229",
+            "name": "Claude 3 Opus (Prio 3)",
+            "contextWindow": 200000
+          }
+        ]
+      }
+    }
+  },
+  "meta": {
+    "lastTouchedVersion": "2026.3.13",
+    "lastTouchedAt": "2026-03-28T04:57:50.947Z"
+  }
+}

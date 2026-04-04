@@ -1,0 +1,29 @@
+# 🤖 Antigravity & AI Configs (Loại bỏ các tệp nhạy cảm)
+.cli-proxy-api/
+.openclaw/credentials/
+.env
+*.json
+!GEMINI.md
+!config.yaml
+
+# 📦 Hệ thống & Backup (Loại bỏ các tệp rác)
+**/browser/
+.browser/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 💻 VS Code & Editor Settings (Cấu hình cá nhân)
+.vscode/
+
+# 📂 Programming Languages (Loại bỏ tệp cài đặt nếu có)
+node_modules/
+dist/
+build/
+__pycache__/
+*.exe
+
+# 💡 Tài liệu cá nhân (Tùy chọn)
+# TỪ VỰNG MARKETING.docx

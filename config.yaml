@@ -1,0 +1,21 @@
+# CLIProxyAPI Config
+host: 127.0.0.1
+port: 8317
+auth-dir: "C:\\Users\\Admin\\.cli-proxy-api"
+api-keys: 
+  - sk-cliproxy-key-123
+management-password: "admin"
+management-port: 8081
+providers:
+  gemini:
+    enabled: true
+    models:
+      - name: "gemini-2.0-flash"
+        alias: "gemini-3-flash"
+      - name: "gemini-2.5-pro"
+        alias: "gemini-3-pro"
+  anthropic:
+    enabled: true
+    models:
+      - name: "claude-3-opus-20240229"
+        alias: "claude-3-opus-20240229"
