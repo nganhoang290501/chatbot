@@ -1,21 +1,13 @@
-# CLIProxyAPI Config
+# 9Router Config (Replaces CLIProxyAPI)
 host: 127.0.0.1
-port: 8317
-auth-dir: "C:\\Users\\Admin\\.cli-proxy-api"
+port: 20128
+dashboard-url: "http://localhost:20128/dashboard"
 api-keys: 
-  - sk-cliproxy-key-123
-management-password: "admin"
-management-port: 8081
+  - sk-9router-key
 providers:
-  gemini:
+  9router:
     enabled: true
     models:
-      - name: "gemini-2.0-flash"
-        alias: "gemini-3-flash"
-      - name: "gemini-2.5-pro"
-        alias: "gemini-3-pro"
-  anthropic:
-    enabled: true
-    models:
-      - name: "claude-3-opus-20240229"
-        alias: "claude-3-opus-20240229"
+      - name: "gemini-3-flash"
+      - name: "gemini-3-pro"
+      - name: "claude-opus"

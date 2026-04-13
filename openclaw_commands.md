@@ -2,23 +2,20 @@
 
 Để chạy hệ thống này sau khi đã cài đặt xong, bạn hãy thực hiện theo thứ tự sau:
 
-## 1. Khởi động Máy chủ CLIProxy
+## 1. Khởi động Máy chủ 9Router
 Mở một cửa sổ Terminal tại thư mục `Chatbot` và chạy:
 ```powershell
-& "C:\Users\Admin\AppData\Local\Microsoft\WinGet\Packages\LuisPater.CLIProxyAPI_Microsoft.Winget.Source_8wekyb3d8bbwe\cli-proxy-api.exe"
+9router
 ```
-*(Giữ cửa sổ này luôn mở để làm cầu nối API).*
+*(Giữ cửa sổ này luôn mở để làm cầu nối API. Truy cập http://localhost:20128/dashboard để cấu hình).*
 
-## 2. Quản lý Đăng nhập AI (Gemini/Claude)
-Nếu bạn chưa đăng nhập hoặc cần đổi tài khoản, mở một Terminal khác và chạy:
-```powershell & "C:\Users\Admin\AppData\Local\Microsoft\WinGet\Packages\LuisPater.CLIProxyAPI_Microsoft.Winget.Source_8wekyb3d8bbwe\cli-proxy-api.exe" -tui
-```
-- Mật khẩu: **`admin`**
-- Chọn `[Login Google Account]` để dùng Gemini.
-- Chọn `[Login Claude OAuth]` để dùng Claude (Opus).
+## 2. Quản lý Đăng nhập AI
+9Router không yêu cầu lệnh login phức tạp như CLIProxy. Chị chỉ cần:
+1. Mở Dashboard: `http://localhost:20128/dashboard`
+2. Vào mục **Providers**, chọn Gemini hoặc Claude và dán API Key của chị vào.
 
 ## 3. Khởi động Giao diện OpenClaw
-Mở một Terminal khác (hoặc dùng Terminal ở bước 2 sau khi xong) và chạy:
+Mở một Terminal khác và chạy:
 ```cmd
 cmd /c openclaw tui
 ```

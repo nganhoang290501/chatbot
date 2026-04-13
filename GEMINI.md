@@ -62,7 +62,7 @@ Vui lòng sử dụng các kỹ năng phù hợp nhất cho **Phát triển chun
 > **Chỉ dẫn Hệ thống**: Các quy trình (workflows) nằm trong thư mục `.agent/workflows/`. Khi người dùng gọi lệnh, BẠN PHẢI đọc file `.md` tương ứng (ví dụ: `/api` -> `.agent/workflows/api.md`) để thực thi.
 
 - **/add-profile**: Hướng dẫn thêm profile Antigravity mới.
-- **/boot**: Khởi động CLIProxy, OpenClaw và Gateway.
+- **/boot**: Khởi động 9Router, OpenClaw và Gateway.
 - **/brainstorm**: Tìm ý tưởng & giải pháp sáng tạo.
 - **/document**: Viết tài liệu và ghi chú tự động.
 - **/enhance**: Cải thiện nội dung & logic hiện có.
