@@ -67,6 +67,7 @@ Vui lòng sử dụng các kỹ năng phù hợp nhất cho **Phát triển chun
 - **/document**: Viết tài liệu và ghi chú tự động.
 - **/enhance**: Cải thiện nội dung & logic hiện có.
 - **/explain**: Giải thích chi tiết các thành phần hệ thống.
+- **/jet**: Mô phỏng và ôn tập phỏng vấn JET Program (CIR).
 - **/n1-study**: Hỗ trợ ôn tập và dạy từ vựng JLPT N1 (Mimikara Oboeru).
 - **/plan**: Lập kế hoạch & lộ trình công việc.
 
