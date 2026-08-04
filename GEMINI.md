@@ -71,8 +71,9 @@ Vui lòng sử dụng các kỹ năng phù hợp nhất cho **Phát triển chun
 - **/n1-study**: Hỗ trợ ôn tập và dạy từ vựng JLPT N1 (Mimikara Oboeru).
 - **/plan**: Lập kế hoạch & lộ trình công việc.
 
-- **/remember**: Ghi nhớ thông tin quan trọng vào hệ thống dữ liệu (data/).
+- **/search-evidence**: Tìm kiếm chứng cứ chính thống (Logistics, Doanh nghiệp Nhật, Data Research, Content).
 - **/status**: Xem báo cáo trạng thái dự án.
+- **/troly**: Nạp nhân dạng (Soul), bộ nhớ & bối cảnh trợ lý Nịi từ data/troly/ (Kèm `/troly ghi nhớ` để lưu sự kiện vừa trao đổi).
 - **/update**: Cập nhật hệ thống lên phiên bản mới nhất.
 - **/visually**: Trực quan hóa thông tin & sơ đồ tư duy.
 
