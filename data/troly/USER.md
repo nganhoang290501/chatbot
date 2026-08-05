@@ -20,6 +20,9 @@
 - Currently starting a small online business (Frozen yogurt).
 - Projects: DaNang Landmark, Sun Symphony.
 - Email: nganhoang.290501@gmail.com
+- TEL: +84 792 111 246
+- Pasona JIP Intern Code: VN016005
+
 
 ## Goals
 - **JLPT N1 Exam**: July 5, 2026 (7:30 AM).
