@@ -6,8 +6,9 @@
   - Mã thực tập: `VN016005`
   - Doanh nghiệp tiếp nhận: **Silk Performance Lab LLC** (thương hiệu `だいじょうぶ社` - Daijoubusha)
   - Thời gian: **24/08/2026 ～ 18/09/2026** (Tối đa 20 ngày, ~80 giờ)
-  - Hạn nộp Form Guidance: **10/08/2026 23:59 JST**
-  - Hạn nộp Form Tập huấn (Quản lý rủi ro + Đa văn hóa): **23/08/2026**
+  - Hạn nộp Form Guidance: **10/08/2026 23:59 JST** (✅ **Đã hoàn thành ngày 05/08**)
+  - Hạn nộp Form Tập huấn (Quản lý rủi ro + Đa văn hóa): **23/08/2026** (⏳ **Đang thực hiện**)
+
 
 
 
