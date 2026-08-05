@@ -4,7 +4,7 @@
 - Japanese Marketing Seminar Prep (Postponed from 2026-03-31)
 - **Thực tập Doanh nghiệp Nhật - Online Course (Japan Internship Program - Pasona)**:
   - Mã thực tập: `VN016005`
-  - Doanh nghiệp tiếp nhận: **Silk Performance Lab LLC** (thương hiệu `だいじょうぶ社` - Daijoubusha)
+  - Doanh nghiệp tiếp nhận: **Silk Performance Lab LLC** (Pháp nhân: `合同会社シルク機能総研` / Thương hiệu: `だいじょうぶ社`)
   - Thời gian: **24/08/2026 ～ 18/09/2026** (Tối đa 20 ngày, ~80 giờ)
   - Hạn nộp Form Guidance: **10/08/2026 23:59 JST** (✅ **Đã hoàn thành ngày 05/08**)
   - Hạn xác nhận Activity Plan với DN: **17/08/2026** (⏳ **Chưa thực hiện**)
