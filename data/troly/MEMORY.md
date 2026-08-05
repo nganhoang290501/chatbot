@@ -11,10 +11,13 @@
   - Hạn nộp Form Tập huấn (Quản lý rủi ro + Đa văn hóa): **23/08/2026** (⏳ **Chưa thực hiện**)
   - Mid-Term Follow-Up: **03/09/2026** 13:00~14:30 JST (11:00~12:30 VN) — Microsoft Teams
   - Final Presentation: **18/09/2026** 13:00~15:00 JST (11:00~13:00 VN) — Microsoft Teams, 7 phút
+  - Đại diện / Người phụ trách: **島津 克隆** (Shimazu Katsutaka)
   - Email liên hệ Công ty: `info@silksoken.co.jp` (Daijoubusha: `info@daijoubusha.com`)
-
+  - Lịch làm việc hàng ngày: 13:00~16:00 JST (11:00~14:00 VN) | Họp Thứ 2 & Thứ 5: 11:00~12:00 JST (09:00~10:00 VN) | Họp Thứ 6: 15:30~16:00 JST
+  - Nội dung chính: Logistics/Thương mại Nhật - Việt - Thái, Nghiên cứu xưởng may apparel tại VN, SNS Marketing chuẩn bị mở rộng năm 2028.
   - Liên hệ JIP Office: `jip@pasona.co.jp` | TEL: `+81-50-5482-6891`
   - Khẩn cấp ngoài giờ: `+81-70-3221-1836` (Amano - 天野)
+
 
 
 ## Knowledge Base
