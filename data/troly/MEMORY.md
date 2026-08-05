@@ -11,7 +11,8 @@
   - Hạn nộp Form Tập huấn (Quản lý rủi ro + Đa văn hóa): **23/08/2026** (⏳ **Chưa thực hiện**)
   - Mid-Term Follow-Up: **03/09/2026** 13:00~14:30 JST (11:00~12:30 VN) — Microsoft Teams
   - Final Presentation: **18/09/2026** 13:00~15:00 JST (11:00~13:00 VN) — Microsoft Teams, 7 phút
-  - Email liên hệ Daijoubusha: `info@daijoubusha.com`
+  - Email liên hệ Công ty: `info@silksoken.co.jp` (Daijoubusha: `info@daijoubusha.com`)
+
   - Liên hệ JIP Office: `jip@pasona.co.jp` | TEL: `+81-50-5482-6891`
   - Khẩn cấp ngoài giờ: `+81-70-3221-1836` (Amano - 天野)
 
