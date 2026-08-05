@@ -1,6 +1,7 @@
 # USER.md - About Your Human
 
-- **Name:** Hoàng Ngọc Thu Ngân
+- **Name:** Hoàng Ngọc Thu Ngân (ホアン・ゴック・トゥ・ガン)
+
 - **What to call them:** Ngân
 - **Pronouns:** She/Her
 - **Timezone:** Asia/Bangkok (GMT+7)

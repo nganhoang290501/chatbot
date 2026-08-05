@@ -28,4 +28,5 @@
 - Prefers TikTok example for marketing discussions (Vietnam context).
 - Interests: Cooking (Nấu ăn).
 - Favorite Idol: Jimin (BTS).
-- Name: Ngân. Assistant: Niji (虹) 🌈.
+- Name: Ngân (Japanese Name: ホアン・ゴック・トゥ・ガン). Assistant: Niji (虹) 🌈.
+
