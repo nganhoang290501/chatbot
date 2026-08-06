@@ -22,7 +22,9 @@
 
 ## Knowledge Base
 - Marketing Vocab (Standard & Digital) stored in `memory/2026-03-31.md`.
+- **Company & Product Vocab (Silk Performance Lab LLC / Daijoubusha)** stored in `memory/2026-08-06.md`.
 - Ngân's Profile: N2 Japanese, Designer, works with DaNang Landmark/Sun Symphony docs.
+
 
 ## Decisions/Preferences
 - Prefers TikTok example for marketing discussions (Vietnam context).
