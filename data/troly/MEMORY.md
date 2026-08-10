@@ -17,6 +17,9 @@
   - Nội dung chính: Logistics/Thương mại Nhật - Việt - Thái, Nghiên cứu xưởng may apparel tại VN, SNS Marketing chuẩn bị mở rộng năm 2028.
   - Liên hệ JIP Office: `jip@pasona.co.jp` | TEL: `+81-50-5482-6891`
   - Khẩn cấp ngoài giờ: `+81-70-3221-1836` (Amano - 天野)
+- **Kinh doanh Sữa chua dẻo nhà làm (Đà Nẵng Online - FB & Threads)**:
+  - Menu & Giá: Truyền thống (10k), Matcha (12k), Phô mai (13k), Sữa chua uống 300ml (20k).
+  - USP (3 KHÔNG): Không chất tạo đặc - Không kem béo - Không gelatin.
 
 
 
