@@ -16,7 +16,9 @@
   - Email liên hệ Công ty: `info@silksoken.co.jp` (Daijoubusha: `info@daijoubusha.com`)
   - Lịch làm việc hàng ngày: 13:00~16:00 JST (11:00~14:00 VN) | Họp Thứ 2 & Thứ 5: 11:00~12:00 JST (09:00~10:00 VN) | Họp Thứ 6: 15:30~16:00 JST
   - Nội dung chính: Logistics/Thương mại Nhật - Việt - Thái, Nghiên cứu xưởng may apparel tại VN, SNS Marketing chuẩn bị mở rộng năm 2028.
+  - Dedicated Coordinator (Điều phối viên chuyên trách Pasona Nhật): **中塚 友希** (Nakatsuka Yuki) | Giờ làm việc: 9:00~17:00 JST (07:00~15:00 VN)
   - Liên hệ JIP Office Nhật: `jip@pasona.co.jp` | TEL: `+81-50-5482-6891` | Khẩn cấp: `+81-70-3221-1836` (Amano)
+
   - **Pasona Vietnam Co., Ltd.** (Quản lý tại Việt Nam):
     - Người phụ trách: **Ms. Trần Nguyễn Quỳnh Nhi** | Zalo/SĐT: **`0349262077`** | Email: `meti_internship@pasona.vn`
     - Nhận bộ 4 thiết bị qua bưu điện (Laptop, Headphone, Smartphone+SIM, Wi-Fi pocket).
