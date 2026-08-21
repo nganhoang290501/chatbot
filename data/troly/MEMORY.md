@@ -8,7 +8,8 @@
   - Thời gian: **24/08/2026 ～ 18/09/2026** (Tối đa 20 ngày, ~80 giờ)
   - Hạn nộp Form Guidance: **10/08/2026 23:59 JST** (✅ **Đã hoàn thành ngày 05/08**)
   - Hạn xác nhận Activity Plan với DN: **17/08/2026** (⏳ **Shimazu-san đã gửi mail điều chỉnh lịch 13/08, đang chờ gửi mail phản hồi đồng ý**)
-  - Hạn nộp Form Tập huấn (Quản lý rủi ro + Đa văn hóa): **23/08/2026** (✅ **Đã hoàn thành 100% cả 2 Form ngày 13/08**)
+  - Hạn nộp Giấy đồng ý Dropbox (Dropbox Usage Agreement): **21/08/2026 11:59 AM JST (09:59 AM VN)** — 🚨 **GẤP TRONG SÁNG NAY!**
+
 
 
   - Mid-Term Follow-Up: **03/09/2026** 13:00~14:30 JST (11:00~12:30 VN) — Microsoft Teams
