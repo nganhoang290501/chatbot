@@ -13,10 +13,11 @@
     2. Forest Silk™ Storytelling (Định vị thương hiệu Tơ lụa Rừng cho Gen Z/Millennials, Bản thảo Company Profile EN & VI).
     3. 競合調査レポート (Phân tích đối thủ quốc tế: LilySilk, Lunya, Spiber Brewed Protein, Ahimsa/Peace Silk).
 
-  - **Kế hoạch Tuần 2 (31/08 ～ 04/09)**: 物流移送シミュレーションの具体化とコスト試算
-    1. 通関・検疫要件 (Kiểm dịch Động/Thực vật kén/xơ tơ tằm, Giấy chứng nhận xử lý nhiệt / 熱処理死滅証明書, Phytosanitary Certificate).
-    2. コストシミュレーション (So sánh cước Courier FedEx/OCS/DHL vs Forwarder Nippon Express/Yamato cho 10kg & 100kg-500kg).
-    3. リスク管理 (Quản lý Time lag nghẽn cảng/cửa khẩu, phương án dự phòng Buffer Time 3-5 ngày).
+- **Chương trình Tokyo Internship (13/10/2026 ～ 11/12/2026)**:
+  - Doanh nghiệp Matching đề xuất: **丹波貿易株式会社** (Tamba Trading Co. Ltd. — [tamba-trading.com](https://tamba-trading.com/kentamba/))
+  - Ngành nghề: Thương mại quốc tế (Bán dẫn, PCB, Vật liệu điện tử, EC, IT AR/VR, Robot AGV, Human Resources).
+  - Hạn phản hồi: **2 ngày làm việc** (Cần hoàn thành Form Pre-matching: [Forms Link](https://forms.cloud.microsoft/e/5XycRQqDEy)).
+  - Quy định: Được từ chối tối đa 1 lần.
 
 
 
