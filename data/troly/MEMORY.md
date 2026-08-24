@@ -12,6 +12,11 @@
     1. 企業・事業理解 (Triết lý Eri Silk 1%, Kế hoạch mở rộng 2028, Tiêu chuẩn chất lượng Nhật).
     2. 輸送ルートの洗い出し (Tuyến Hà Nội ➔ Tokyo & Hà Nội ➔ Thái Lan: Đường biển, Hàng không, Xe tải xuyên biên giới).
     3. 現状課題の把握 (Hàng mẫu 10kg Courier vs Hàng sản xuất hàng loạt Bulk/LCL/FCL, Lead time, C/O Form AJ/VJ/RCEP).
+  - **Kế hoạch Tuần 2 (31/08 ～ 04/09)**: 物流移送シミュレーションの具体化とコスト試算
+    1. 通関・検疫要件 (Kiểm dịch Động/Thực vật kén/xơ tơ tằm, Giấy chứng nhận xử lý nhiệt / 熱処理死滅証明書, Phytosanitary Certificate).
+    2. コストシミュレーション (So sánh cước Courier FedEx/OCS/DHL vs Forwarder Nippon Express/Yamato cho 10kg & 100kg-500kg).
+    3. リスク管理 (Quản lý Time lag nghẽn cảng/cửa khẩu, phương án dự phòng Buffer Time 3-5 ngày).
+
 
 
 
