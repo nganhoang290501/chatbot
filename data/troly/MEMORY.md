@@ -51,7 +51,12 @@
 ## Knowledge Base
 - Marketing Vocab (Standard & Digital) stored in `memory/2026-03-31.md`.
 - **Company & Product Vocab (Silk Performance Lab LLC / Daijoubusha)** stored in `memory/2026-08-06.md`.
+- **Wild Silk Master Curriculum (4-Week Resource & Homework Solution)** stored in `wild_silk_master_learning_guide.md` & `memory/2026-08-24.md`.
+  - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
+  - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
+  - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
 - Ngân's Profile: N2 Japanese, Designer, works with DaNang Landmark/Sun Symphony docs.
+
 
 
 ## Decisions/Preferences
