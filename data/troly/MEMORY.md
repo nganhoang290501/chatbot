@@ -16,8 +16,8 @@
 - **Chương trình Tokyo Internship (13/10/2026 ～ 11/12/2026)**:
   - Doanh nghiệp Matching đề xuất: **丹波貿易株式会社** (Tamba Trading Co. Ltd. — [tamba-trading.com](https://tamba-trading.com/kentamba/))
   - Ngành nghề: Thương mại quốc tế (Bán dẫn, PCB, Vật liệu điện tử, EC, IT AR/VR, Robot AGV, Human Resources).
-  - Hạn phản hồi: **2 ngày làm việc** (Cần hoàn thành Form Pre-matching: [Forms Link](https://forms.cloud.microsoft/e/5XycRQqDEy)).
-  - Quy định: Được từ chối tối đa 1 lần.
+  - Trạng thái: ✅ **Đã điền Form Pre-matching (24/08)** | **Tỷ lệ đậu ước tính: 85% - 95%**.
+
 
 
 
