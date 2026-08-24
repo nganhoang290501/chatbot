@@ -57,10 +57,13 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
-- **Báo cáo Tiếng Nhật Chuyên sâu (vietnam_and_global_silk_report_jp.md)**:
-  - Tóm tắt tổng quan Tơ lụa Việt Nam (Xếp thứ 3 Châu Á / 4 Thế giới, Bảo Lộc 70-80%).
-  - Thị trường xuất khẩu (Ấn Độ 65-77%, Nhật Kimono, EU, Trung Đông) & Giá xuất khẩu (Raw Silk ~$65/kg, Fabric ~$15-35/m).
-  - Bảng Báo cáo Top 10 Quốc gia Sản xuất Tơ lụa Thế giới chuẩn Nhật (China, India, Uzbekistan, Vietnam, Thailand, Brazil, DPR Korea, Japan, Iran, ROK).
+- **Các thương hiệu & Tập đoàn Nhật Bản dùng tơ lụa Việt Nam (Japanese Brands & Trading Houses)**:
+  - Tập đoàn thương mại tơ lụa Kyoto **松村株式会社 (Matsumura Co., Ltd.)**: Mở nhà máy liên kết tại Bảo Lộc từ 2004, dùng lụa Bảo Lộc dệt vải trắng may **Kimono (和装用白生地)**.
+  - 老舗絹糸商 **株式会社中忠商店 (Nakachu Shoten)**: Nhập tơ xe Spun Silk làm đồ lót lụa cao cấp.
+  - **KIMONO E JAPAN**: May thủ công trang phục Kimono & Yukata từ lụa Bảo Lộc xuất ngược về Nhật.
+  - **合同会社シルク機能総研 / だいじょうぶ社**: Nhập giống tơ Eri Việt Nam (Eri-3.4) làm dép Wild Silk Room Shoes & mỹ phẩm.
+  - **Metiseko & Rakuten JP**: Phân phối thời trang lụa Bảo Lộc dán nhãn "バオロック産シルク".
+
 
 
 
