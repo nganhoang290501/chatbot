@@ -57,7 +57,11 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
-- Ngân's Profile: N2 Japanese, Designer, works with DaNang Landmark/Sun Symphony docs.
+- **Thị trường & Giá Lụa Việt Nam Xuất khẩu (Data Research)**:
+  - Thị trường xuất khẩu chính: **Ấn Độ (65-77% tơ thô)**, **Nhật Bản (Vải Satin/Habutai may Kimono)**, EU (Pháp, Ý, Bỉ), Trung Đông (Lụa Yozu), Mỹ.
+  - Vùng sản xuất hạt nhân: **Bảo Lộc (Lâm Đồng)** chiếm 70-80% sản lượng cả nước (~16-21 triệu USD/năm).
+  - Mức giá xuất khẩu: Tơ thô (Raw Silk) **~$63 - $70 USD/kg** (trung bình **~$65/kg**); Vải lụa 100% tự nhiên **~$15 - $35 USD/m** (~350k-850k VNĐ/m).
+
 
 
 
