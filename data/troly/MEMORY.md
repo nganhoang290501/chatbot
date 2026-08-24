@@ -57,11 +57,9 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
-- **Thị trường & Bảng xếp hạng Tơ lụa Châu Á & Thế giới (ISC / FAO)**:
-  - Top 1 Châu Á & Thế giới: **Trung Quốc** (>70% sản lượng toàn cầu).
-  - Top 2 Châu Á & Thế giới: **Ấn Độ** (15-20% sản lượng, dẫn đầu tơ hoang dã Eri/Muga/Tasar).
-  - Top 3 Châu Á & Top 5-6 Thế giới: **Việt Nam** (Thủ phủ Bảo Lộc chiếm 70-80% cả nước).
-  - Top 4 Thế giới: **Uzbekistan**; Nhật Bản & Thái Lan dẫn đầu công nghệ dệt & thiết kế lụa cao cấp.
+- **Bảng xếp hạng Sản lượng Tơ thô Thế giới (INSERCO / ISC Data - Tổng ~91.221 tấn)**:
+  - 1. Trung Quốc (~50.000 tấn - >55-70%) | 2. Ấn Độ (~36.582 tấn - 35-40%) | 3. Uzbekistan (~2.037 tấn) | 4. Việt Nam (~1.067 tấn - Tăng trưởng +113%) | 5. Thái Lan (~435 tấn) | 6. Brazil (~350 tấn).
+
 
 
 
