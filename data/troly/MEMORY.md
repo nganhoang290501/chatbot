@@ -8,10 +8,11 @@
   - Thời gian: **24/08/2026 ～ 18/09/2026** (Tối đa 20 ngày, ~80 giờ)
   - Hạn nộp Form Guidance: **10/08/2026 23:59 JST** (✅ **Đã hoàn thành ngày 05/08**)
   - Hạn xác nhận Activity Plan với DN: **17/08/2026** (⏳ **Shimazu-san đã gửi mail điều chỉnh lịch 13/08, đang chờ gửi mail phản hồi đồng ý**)
-  - **Kế hoạch Tuần 1 (24/08 ～ 28/08)**: オリエンテーションと物流・貿易の基礎リサーチ
-    1. 企業・事業理解 (Triết lý Eri Silk 1%, Kế hoạch mở rộng 2028, Tiêu chuẩn chất lượng Nhật).
-    2. 輸送ルートの洗い出し (Tuyến Hà Nội ➔ Tokyo & Hà Nội ➔ Thái Lan: Đường biển, Hàng không, Xe tải xuyên biên giới).
-    3. 現状課題の把握 (Hàng mẫu 10kg Courier vs Hàng sản xuất hàng loạt Bulk/LCL/FCL, Lead time, C/O Form AJ/VJ/RCEP).
+  - **Kế hoạch Tuần 1 (24/08 ～ 28/08)**: オリエンテーションと物流・貿易の基礎リサーチ & ブランド基盤再定義
+    1. 企業・事業理解 & 物流ルート (Triết lý Eri Silk 1%, Tuyến Hà Nội ➔ Tokyo & Hà Nội ➔ Thái Lan).
+    2. Forest Silk™ Storytelling (Định vị thương hiệu Tơ lụa Rừng cho Gen Z/Millennials, Bản thảo Company Profile EN & VI).
+    3. 競合調査レポート (Phân tích đối thủ quốc tế: LilySilk, Lunya, Spiber Brewed Protein, Ahimsa/Peace Silk).
+
   - **Kế hoạch Tuần 2 (31/08 ～ 04/09)**: 物流移送シミュレーションの具体化とコスト試算
     1. 通関・検疫要件 (Kiểm dịch Động/Thực vật kén/xơ tơ tằm, Giấy chứng nhận xử lý nhiệt / 熱処理死滅証明書, Phytosanitary Certificate).
     2. コストシミュレーション (So sánh cước Courier FedEx/OCS/DHL vs Forwarder Nippon Express/Yamato cho 10kg & 100kg-500kg).
