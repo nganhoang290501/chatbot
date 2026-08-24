@@ -8,7 +8,11 @@
   - Thời gian: **24/08/2026 ～ 18/09/2026** (Tối đa 20 ngày, ~80 giờ)
   - Hạn nộp Form Guidance: **10/08/2026 23:59 JST** (✅ **Đã hoàn thành ngày 05/08**)
   - Hạn xác nhận Activity Plan với DN: **17/08/2026** (⏳ **Shimazu-san đã gửi mail điều chỉnh lịch 13/08, đang chờ gửi mail phản hồi đồng ý**)
-  - Hạn nộp Giấy đồng ý Dropbox (Dropbox Usage Agreement): **21/08/2026 11:59 AM JST (09:59 AM VN)** — 🚨 **GẤP TRONG SÁNG NAY!**
+  - **Kế hoạch Tuần 1 (24/08 ～ 28/08)**: オリエンテーションと物流・貿易の基礎リサーチ
+    1. 企業・事業理解 (Triết lý Eri Silk 1%, Kế hoạch mở rộng 2028, Tiêu chuẩn chất lượng Nhật).
+    2. 輸送ルートの洗い出し (Tuyến Hà Nội ➔ Tokyo & Hà Nội ➔ Thái Lan: Đường biển, Hàng không, Xe tải xuyên biên giới).
+    3. 現状課題の把握 (Hàng mẫu 10kg Courier vs Hàng sản xuất hàng loạt Bulk/LCL/FCL, Lead time, C/O Form AJ/VJ/RCEP).
+
 
 
 
