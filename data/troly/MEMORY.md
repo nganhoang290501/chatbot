@@ -57,8 +57,11 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
+- **Mẫu 企業へコメント (Comments to Host Company) Tiếng Nhật Ngày 25/8/2026 (comments_to_host_company_2026_08_25_jp.md)**:
+  - Cảm ơn sếp Shimazu về buổi họp Eri Silk, báo cáo hoàn thành tính toán cước xe tải 4 tấn & kiểm dịch kén rỗng (HS 5003.00), và hứa cập nhật bảng so sánh khi nhận phản hồi cước.
 - **Báo cáo Thực tập 日報 Tiếng Nhật Ngày 25/8/2026 (daily_report_2026_08_25_jp.md)**:
-  - Báo cáo họp Taka-san về Eri Silk (kén hở, Spun Silk, Peace Silk), chốt mục tiêu lập phương án Logistics xuất khẩu kén sang SPUN SILK WORLD (Thái Lan), lập danh sách 10 Forwarders, tính cước xe tải 4 tấn ($2,200-$3,200/chuyến) và làm rõ quy định kiểm dịch kén rỗng không nhộng (HS 5003.00).
+  - Báo cáo họp Taka-san về Eri Silk, chốt mục tiêu Logistics xuất khẩu kén sang SPUN SILK WORLD (Thái Lan), lập danh sách 10 Forwarders, tính cước xe tải 4 tấn ($2,200-$3,200/chuyến) và kiểm dịch kén rỗng (HS 5003.00).
+
 - **Báo cáo Thực tập 日報 Tiếng Nhật Ngày 24/8/2026 (daily_report_2026_08_24_jp.md)**:
   - Chuẩn bị sẵn đoạn văn bản tiếng Nhật chuẩn chỉnh để dán trực tiếp vào ô 活動内容 của Form Pasona METI JIP.
 
