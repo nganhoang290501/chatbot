@@ -57,6 +57,11 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
+- **Tin nhắn Tiếng Nhật Chuẩn Business cho Sếp Shimazu (japanese_chat_message_for_shimazu_san.md)**:
+  - 蛹無し繭（HS 5003.00）は「蛹死滅証明書」【不要】。必須書類4点: 植物検疫証明書（Phytosanitary Cert）+ 空繭宣言 + 薫蒸証明書 + Form D（関税0%）。
+  - 参考: 蛹あり生繭（HS 5001.00）は「蛹死滅証明書」【必須】。
+  - 4トン車進捗: $2,200-$3,200/台（2-3日）。ヤマトロジスティクス、日通、DHD等5社へ相見積もり送信済み。
+
 - **Báo cáo Tiếng Nhật Chuyên sâu Trọn gói Logistics 4 Tấn Kén tằm (full_silk_cocoon_logistics_and_quarantine_report_jp.md)**:
   - サンプル: OCS着払い（1-2日）。4トン繭越境トラック費: $2,200-$3,200/5トン車（リードタイム2-3日）。
   - 検疫: 蛹無し繭（HS 5003.00）は「蛹死滅証明書」【不要】。植物検疫証明書（Phytosanitary Cert）＋Form D（関税0%）【必須】。
