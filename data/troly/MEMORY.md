@@ -57,11 +57,10 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
-- **Danh sách 10 Công ty Logistics Tuyến Việt Nam ➔ Thái Lan (Tiếng Nhật: google_sheets_logistics_directory_vietnam_thailand_jp.md)**:
-  - 地点: **SPUN SILK WORLD CO., LTD.** (Samut Prakan 10280, Thailand).
-  - 日系フォワーダー: ヤマトロジスティクス (`export.han@yamatovn.com.vn`), 郵船ロジスティクス (`ylvn.ml.bdd@vn.yusen-logistics.com`), 日通 (`nevn-ho.ga@nipponexpress.com`), OCS ANAグループ (`info@ocs.com.vn`).
-  - ローカルフォワーダー: ハイフォンロジスティクス, HPグローバル, DHD, ANT VINA, パシフィック, インドシナポスト.
-  - 添付: 相見積もり依頼メールテンプレート（日本語版）.
+- **Nghiên cứu Cước Xe tải 4 Tấn Kén tằm & Kiểm dịch Sấy diệt nhộng (silk_cocoon_trucking_cost_and_quarantine_guide.md)**:
+  - Cước Xe tải 4 Tấn Kén tằm (Cross-border FTL 5-ton): Hà Nội ➔ Samut Prakan ($2,200-$3,200 USD/chuyến ~$0.55-$0.80 USD/kg; Lead Time 2-3 ngày).
+  - **Giấy chứng nhận sấy diệt nhộng (生物の死滅証明書 / Heat Treatment Certificate)**: **BẮT BUỘC (MANDATORY)**. Thái Lan & Cục BVTV Việt Nam bắt buộc kén tằm (HS 5001) phải sấy nhiệt (70°C-90°C) diệt nhộng + Phytosanitary Certificate + Form D (Thuế 0%).
+
 
 
 
