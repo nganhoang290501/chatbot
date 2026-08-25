@@ -57,10 +57,11 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
-- **Báo cáo Bảng So sánh Chi tiết 2 Trường hợp Sấy Diệt Nhộng (comparison_silk_cocoon_quarantine_requirements.md)**:
-  - 🐛 Kén còn nhộng (HS 5001.00): **BẮT BUỘC** Giấy sấy diệt nhộng (Heat Treatment Cert).
-  - 🦋 Kén không nhộng / Kén Eri mở miệng (HS 5003.00): **KHÔNG BẮT BUỘC** Giấy sấy diệt nhộng. Vẫn BẮT BUỘC Phytosanitary Cert (Cục BVTV) + Declaration of Empty Cocoons + C/O Form D (Thuế 0%).
-  - Trích dẫn chứng cứ nguyên văn từ `dms.gov.vn` (Thông tư 14/2024/TT-BNNPTNT) & `doa.go.th` (Cục Nông nghiệp Thái Lan).
+- **Báo cáo Tiếng Nhật Chuyên sâu Trọn gói Logistics 4 Tấn Kén tằm (full_silk_cocoon_logistics_and_quarantine_report_jp.md)**:
+  - サンプル: OCS着払い（1-2日）。4トン繭越境トラック費: $2,200-$3,200/5トン車（リードタイム2-3日）。
+  - 検疫: 蛹無し繭（HS 5003.00）は「蛹死滅証明書」【不要】。植物検疫証明書（Phytosanitary Cert）＋Form D（関税0%）【必須】。
+  - 物流企業5選（Yamato, Nippon Express, DHD, Haiphong, HP Global）＆相見積もり依頼メール文面。
+
 
 
 
