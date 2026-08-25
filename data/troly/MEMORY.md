@@ -57,9 +57,10 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
-- **Quy định Kiểm dịch Kén không chứa nhộng (pupae_free_silk_cocoon_import_quarantine_guide.md)**:
-  - 蛹なしの繭（抜蛹繭・開口繭 - HS 5003.00）: **Không bắt buộc Giấy chứng nhận sấy DIỆT NHỘNG** (Heat Sterilization Cert).
-  - Vẫn BẮT BUỘC 4 chứng thư: 1. Phytosanitary Certificate (Cục BVTV VN) + 2. Declaration of Empty Cocoons + 3. Fumigation Certificate + 4. Form D (Thuế 0%).
+- **Hướng dẫn Chi tiết Liên hệ Báo giá Xe tải 4 Tấn Kén tằm (trucking_outreach_guide_4ton_cocoons.md)**:
+  - Top 5 Forwarders ưu tiên: Yamato Logistics, Nippon Express, DHD Logistics (Zalo: 0971 978 596), Hải Phòng Logistics (Zalo: 093 456 2259), HP Global (Zalo: 0984 870 199).
+  - Có sẵn Mẫu tin nhắn Zalo Tiếng Việt & Mẫu Email Tiếng Nhật hỏi báo giá cước xe tải 5 tấn (FTL) tuyến Hà Nội ➔ Samut Prakan (HS 5003.00).
+
 
 
 
