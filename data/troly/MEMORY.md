@@ -57,10 +57,11 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
-- **Nghiên cứu Chi tiết Tuyến Logistics Hà Nội ➔ Thái Lan (hanoi_thailand_logistics_route_investigation.md)**:
-  - 海路 (Sea Freight): Hải Phòng ➔ Laem Chabang/Bangkok (Lead Time đi thẳng **3-5 ngày**; rẻ nhất cho lô hàng lớn FCL/LCL).
-  - 空路 (Air Freight): Nội Bài ➔ Suvarnabhumi (Bay **1.5-2h**; Door-to-door **1-2 ngày**; tối ưu hàng mẫu 10kg).
-  - 陸路 (Cross-border Trucking): Hà Nội ➔ Lao Bảo ➔ Đường 9 Lào (Savannakhet) ➔ Mukdahan ➔ Bangkok (Lead Time **2-3 ngày** Door-to-door; nhanh hơn đường biển 2-3 ngày, cước rẻ hơn hàng không 50-60%).
+- **Danh sách 10 Công ty Logistics Tuyến Việt Nam ➔ Thái Lan (google_sheets_logistics_directory_vietnam_thailand.md)**:
+  - Địa chỉ đích: **SPUN SILK WORLD CO., LTD.** (Samut Prakan 10280, Thailand).
+  - Forwarder Nhật Bản ưu tiên: **Yamato Logistics** (`export.han@yamatovn.com.vn`), **Yusen Logistics** (`ylvn.ml.bdd@vn.yusen-logistics.com`), **Nippon Express** (`nevn-ho.ga@nipponexpress.com`), **OCS ANA Group** (`info@ocs.com.vn`).
+  - Forwarder Việt Nam chuyên tuyến: Hải Phòng Logistics, HP Global, DHD Logistics, ANT VINA, Pacific Logistics, Indochina Post.
+
 
 
 
