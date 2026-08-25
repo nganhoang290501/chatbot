@@ -57,9 +57,10 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
-- **Nghiên cứu Cước Xe tải 4 Tấn Kén tằm & Kiểm dịch Sấy diệt nhộng (silk_cocoon_trucking_cost_and_quarantine_guide.md)**:
-  - Cước Xe tải 4 Tấn Kén tằm (Cross-border FTL 5-ton): Hà Nội ➔ Samut Prakan ($2,200-$3,200 USD/chuyến ~$0.55-$0.80 USD/kg; Lead Time 2-3 ngày).
-  - **Giấy chứng nhận sấy diệt nhộng (生物の死滅証明書 / Heat Treatment Certificate)**: **BẮT BUỘC (MANDATORY)**. Thái Lan & Cục BVTV Việt Nam bắt buộc kén tằm (HS 5001) phải sấy nhiệt (70°C-90°C) diệt nhộng + Phytosanitary Certificate + Form D (Thuế 0%).
+- **Quy định Kiểm dịch Kén không chứa nhộng (pupae_free_silk_cocoon_import_quarantine_guide.md)**:
+  - 蛹なしの繭（抜蛹繭・開口繭 - HS 5003.00）: **Không bắt buộc Giấy chứng nhận sấy DIỆT NHỘNG** (Heat Sterilization Cert).
+  - Vẫn BẮT BUỘC 4 chứng thư: 1. Phytosanitary Certificate (Cục BVTV VN) + 2. Declaration of Empty Cocoons + 3. Fumigation Certificate + 4. Form D (Thuế 0%).
+
 
 
 
