@@ -57,8 +57,11 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
+- **Báo cáo Thực tập 日報 Tiếng Nhật Ngày 24/8/2026 (daily_report_2026_08_24_jp.md)**:
+  - Chuẩn bị sẵn đoạn văn bản tiếng Nhật chuẩn chỉnh để dán trực tiếp vào ô 活動内容 của Form Pasona METI JIP (Kick-off Shimazu-san, Wild Silk 4-week homework, Logistics/Quarantine research, Vietnam Silk export market report, Silksoken Web Vocab Master).
 - **Tin nhắn Tiếng Nhật Chuẩn Business kèm Bằng chứng Chính thống cho Sếp Shimazu (japanese_chat_message_for_shimazu_san.md)**:
   - Bổ sung khối chứng cứ nguyên văn từ `dms.gov.vn` (Thông tư 14/2024/TT-BNNPTNT) & `doa.go.th` (Cục Nông nghiệp Thái Lan) chứng minh quy định kiểm dịch Kén rỗng (HS 5003.00 không cần sấy diệt nhộng, nhưng cần Phytosanitary Cert).
+
 
 
 - **Báo cáo Tiếng Nhật Chuyên sâu Trọn gói Logistics 4 Tấn Kén tằm (full_silk_cocoon_logistics_and_quarantine_report_jp.md)**:
