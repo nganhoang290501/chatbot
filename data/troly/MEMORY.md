@@ -57,12 +57,11 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
-- **Các thương hiệu Nhật Bản dùng tơ lụa Việt Nam (Báo cáo Tiếng Nhật: japanese_brands_using_vietnam_silk_jp.md)**:
-  - 松村株式会社 (Kyoto): Dệt vải trắng may Kimono (和装用白生地).
-  - 株式会社中忠商店 (Kyoto Nishijin): Đồ lót lụa Spun Silk cao cấp.
-  - KIMONO E JAPAN: May thủ công Kimono/Yukata từ lụa Bảo Lộc xuất về Nhật.
-  - 合同会社シルク機能総研 / だいじょうぶ社: Nhập Tơ Eri Việt Nam (Eri-3.4) cho Wild Silk Room Shoes.
-  - Metiseko & 楽天市場 (Rakuten): Phân phối thời trang dán nhãn "バオロック産シルク".
+- **Nghiên cứu Chi tiết Tuyến Logistics Hà Nội ➔ Thái Lan (hanoi_thailand_logistics_route_investigation.md)**:
+  - 海路 (Sea Freight): Hải Phòng ➔ Laem Chabang/Bangkok (Lead Time đi thẳng **3-5 ngày**; rẻ nhất cho lô hàng lớn FCL/LCL).
+  - 空路 (Air Freight): Nội Bài ➔ Suvarnabhumi (Bay **1.5-2h**; Door-to-door **1-2 ngày**; tối ưu hàng mẫu 10kg).
+  - 陸路 (Cross-border Trucking): Hà Nội ➔ Lao Bảo ➔ Đường 9 Lào (Savannakhet) ➔ Mukdahan ➔ Bangkok (Lead Time **2-3 ngày** Door-to-door; nhanh hơn đường biển 2-3 ngày, cước rẻ hơn hàng không 50-60%).
+
 
 
 
