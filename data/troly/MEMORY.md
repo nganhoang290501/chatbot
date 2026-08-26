@@ -57,8 +57,10 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
-- **Mẫu 企業へコメント (Comments to Host Company) Tiếng Nhật Ngày 25/8/2026 (comments_to_host_company_2026_08_25_jp.md)**:
-  - Cảm ơn sếp Shimazu về buổi họp Eri Silk, báo cáo hoàn thành tính toán cước xe tải 4 tấn & kiểm dịch kén rỗng (HS 5003.00), và hứa cập nhật bảng so sánh khi nhận phản hồi cước.
+- **Nghiên cứu Chi tiết Thủ tục Phytosanitary Cert & Fumigation Cert (phytosanitary_and_fumigation_procedure_guide_jp.md)**:
+  - ① Phytosanitary Cert: Do Cty xuất khẩu VN đăng ký qua `vnsw.gov.vn`. Cán bộ Cục BVTV lấy mẫu kiểm tra. Cấp trong 24h (thực tế 1-2 ngày). Lệ phí nhà nước 40k-150k VNĐ; phí dịch vụ Forwarder 500k-1.5M VNĐ.
+  - ③ Fumigation Cert: Do Forwarder phối hợp đơn vị khử trùng (VFC, SGS) thực hiện. Ủ khí 24-48h. Chi phí 600k-1.5M VNĐ/xe. Hàng lẻ LTL phải khử trùng riêng tại kho trước khi ghép xe để tránh làm ô nhiễm hàng khác; khuyên dùng xe FTL 5 tấn cho lô 4 tấn.
+
 - **Báo cáo Thực tập 日報 Tiếng Nhật Ngày 25/8/2026 (daily_report_2026_08_25_jp.md)**:
   - Báo cáo họp Taka-san về Eri Silk, chốt mục tiêu Logistics xuất khẩu kén sang SPUN SILK WORLD (Thái Lan), lập danh sách 10 Forwarders, tính cước xe tải 4 tấn ($2,200-$3,200/chuyến) và kiểm dịch kén rỗng (HS 5003.00).
 
