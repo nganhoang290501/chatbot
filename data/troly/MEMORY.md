@@ -58,7 +58,8 @@
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
 - **Mẫu 企業へコメント (Comments to Host Company) Tiếng Nhật Ngày 26/8/2026 (comments_to_host_company_2026_08_26_jp.md)**:
-  - Cảm ơn sếp Shimazu, báo cáo hoàn thành nghiên cứu chi tiết kiểm dịch/hun trùng Thái Lan, lập danh bạ 71 công ty lụa & dệt may sợi VN, sẵn sàng gửi bộ khảo sát tinh chế kén Eri.
+  - Cảm ơn sếp Shimazu, báo cáo hoàn thành nghiên cứu chi tiết kiểm dịch/hun trùng Thái Lan, lập danh bạ 71 công ty lụa & dệt may sợi VN, gửi bộ khảo sát tinh chế kén Eri, và soạn thảo/hướng dẫn gửi email liên hệ cho người phụ trách tại Trung tâm Nghiên cứu Dâu tằm tơ Việt Nam (VIETSERI).
+
 - **Danh bạ & Báo cáo Điều tra 53 Doanh nghiệp Dệt may - Vải sợi Việt Nam (vietnam_53_textile_companies_investigation_directory.md)**:
   - 53/53 doanh nghiệp đang hoạt động bình thường (🟢). Có đầy đủ MST, SĐT/Zalo & Địa chỉ trụ sở/nhà máy.
 
