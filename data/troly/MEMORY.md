@@ -57,8 +57,11 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
+- **Mẫu 企業へコメント (Comments to Host Company) Tiếng Nhật Ngày 26/8/2026 (comments_to_host_company_2026_08_26_jp.md)**:
+  - Cảm ơn sếp Shimazu, báo cáo hoàn thành nghiên cứu chi tiết kiểm dịch/hun trùng Thái Lan, lập danh bạ 71 công ty lụa & dệt may sợi VN, sẵn sàng gửi bộ khảo sát tinh chế kén Eri.
 - **Danh bạ & Báo cáo Điều tra 53 Doanh nghiệp Dệt may - Vải sợi Việt Nam (vietnam_53_textile_companies_investigation_directory.md)**:
-  - 53/53 doanh nghiệp đang hoạt động bình thường (🟢). Có đầy đủ MST, SĐT/Zalo & Địa chỉ trụ sở/nhà máy: TCM Thành Công (028 3815 3962), Agtex28 (028 3894 2238), GATEXCO 20 (024 3864 5077), Dệt Bảo Minh (0228 6253 333), Sợi Việt Trì (0274 3515 356), Ecosoi (0913 617 588), Dệt lụa Nam Định (0228 3849 622), Thái Tuấn (028 3719 4612), Thygesen (024 3699 2666), Trung Quy (0931 893 093), Tường Long (0274 3790 675), Yu Yuang (0907 664 586)...
+  - 53/53 doanh nghiệp đang hoạt động bình thường (🟢). Có đầy đủ MST, SĐT/Zalo & Địa chỉ trụ sở/nhà máy.
+
 - **Bộ Mẫu Tin nhắn Zalo & Email Khảo sát Gia công Phế thải Kén Eri (eri_silk_processing_outreach_templates.md)**:
   - Gồm Mẫu Zalo gửi trực tiếp xưởng, Mẫu Email gửi tập đoàn lớn & Kịch bản phản hồi 3 hướng phục vụ khảo sát 17 doanh nghiệp lụa Việt Nam (Dịch vụ tinh chế Degumming giặt nhả keo & Kéo sợi tơ xe Spun silk Eri).
 
