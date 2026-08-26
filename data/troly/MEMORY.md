@@ -57,8 +57,11 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
+- **Bộ Mẫu Tin nhắn Zalo & Email Khảo sát Gia công Phế thải Kén Eri (eri_silk_processing_outreach_templates.md)**:
+  - Gồm Mẫu Zalo gửi trực tiếp xưởng, Mẫu Email gửi tập đoàn lớn & Kịch bản phản hồi 3 hướng phục vụ khảo sát 17 doanh nghiệp lụa Việt Nam (Dịch vụ tinh chế Degumming giặt nhả keo & Kéo sợi tơ xe Spun silk Eri).
 - **Danh bạ & Báo cáo Điều tra 18 Công ty Lụa Việt Nam (vietnam_silk_companies_investigation_directory.md)**:
-  - 17/18 doanh nghiệp đang hoạt động bình thường (🟢). Đầy đủ Zalo/Hotline, Email, Website & Địa chỉ cho từng công ty: Daisu Silk (0364558585), Coconsilk (0985162260), Vải Huê Hùng (0944590109), Phúc Hưng Silk (0982721582), Bá Minh Silk (0936099110), Việt Tuyết Silk (0905762999), Lụa Nha Xá (0943549019), Hạnh Silk (0815929000), Nhất Hoa Silk (0905133124), Silk Phương Mai (0934055430), Toàn Thịnh Silk (0931478111), Phương Linh Silk (0585888668), Cường Hoàn Silk (0963814338), SilkyVietnam (0898083735), SenSilk (0976722736), Vietnam Silk House (0913762487), Palace Silk (0975194769). Only Legendsilk inactive/unverified.
+  - 17/18 doanh nghiệp đang hoạt động bình thường (🟢). Đầy đủ Zalo/Hotline, Email, Website & Địa chỉ cho từng công ty.
+
 - **Báo cáo Tiếng Nhật Chuyên sâu Chi tiết Rộng rãi về Phytosanitary & Fumigation Cert (detailed_japanese_report_phytosanitary_and_fumigation.md)**:
   - 解答①: 植物検疫証明書 - ベトナム側PPD申請、実地検疫1-2日、手数料4万-15万VND＋代理50万-150万VND。
 
