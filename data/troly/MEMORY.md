@@ -57,8 +57,12 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
+- **Báo cáo Tiếng Nhật Chuyên sâu Chi tiết Rộng rãi về Phytosanitary & Fumigation Cert (detailed_japanese_report_phytosanitary_and_fumigation.md)**:
+  - 解答①: 植物検疫証明書 - ベトナム側PPD申請、実地検疫1-2日、手数料4万-15万VND＋代理50万-150万VND。
+  - 解答③: 薫蒸証明書 - フォワーダー手配（VFC/SGS）、薬剤24-48h＋通気2-4h、費用60万-150万VND/車。混載（LTL）時車内直接燻蒸は不可（他社荷物汚染防止）、倉庫事前個別燻蒸またはFTL5トン貸切車必須。
 - **Nghiên cứu Chi tiết Thủ tục Phytosanitary Cert & Fumigation Cert (phytosanitary_and_fumigation_procedure_guide_jp.md)**:
   - ① Phytosanitary Cert: Do Cty xuất khẩu VN đăng ký qua `vnsw.gov.vn`. Cán bộ Cục BVTV lấy mẫu kiểm tra. Cấp trong 24h (thực tế 1-2 ngày). Lệ phí nhà nước 40k-150k VNĐ; phí dịch vụ Forwarder 500k-1.5M VNĐ.
+
   - ③ Fumigation Cert: Do Forwarder phối hợp đơn vị khử trùng (VFC, SGS) thực hiện. Ủ khí 24-48h. Chi phí 600k-1.5M VNĐ/xe. Hàng lẻ LTL phải khử trùng riêng tại kho trước khi ghép xe để tránh làm ô nhiễm hàng khác; khuyên dùng xe FTL 5 tấn cho lô 4 tấn.
 
 - **Báo cáo Thực tập 日報 Tiếng Nhật Ngày 25/8/2026 (daily_report_2026_08_25_jp.md)**:
