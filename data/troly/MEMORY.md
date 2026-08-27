@@ -57,8 +57,11 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
+- **Danh bạ 15 Doanh nghiệp Tơ lụa & Kéo sợi Mới (Lọc trùng 100% không trùng list 18 công ty cũ) (new_silk_and_textile_companies_filtered_directory.md)**:
+  - Tất cả 15 doanh nghiệp mới 100%. Đầy đủ SĐT, Zalo, Website & Ý nghĩa hợp tác với Taka-san: JSC Bao Loc Silk (đã xuất sang Nhật - 0913885923), Asia Silk (kéo sợi Spun Silk 200-2000 TPM - 0785969889), Viet Silk, VISERI x Matsumura Japan (liên doanh kéo sợi Spun Silk 85t/năm với Nhật), Lụa Triệu Văn Mão (Vạn Phúc), HTX Lụa Vạn Phúc, Hanosimex, Lụa Mã Châu Quảng Nam (0979003511), Dệt May Nha Trang, Profit Name, Dệt kim Đông Xuân, Dệt 8-3 (0986931936), Phong Phú Corp (0968099199), Sợi Thế Kỷ, Tongkook VN.
 - **Mẫu 企業へコメント (Comments to Host Company) Tiếng Nhật Ngày 26/8/2026 (comments_to_host_company_2026_08_26_jp.md)**:
-  - Cảm ơn sếp Shimazu, báo cáo hoàn thành nghiên cứu chi tiết kiểm dịch/hun trùng Thái Lan, lập danh bạ 71 công ty lụa & dệt may sợi VN, gửi bộ khảo sát tinh chế kén Eri, và soạn thảo/hướng dẫn gửi email liên hệ cho người phụ trách tại Trung tâm Nghiên cứu Dâu tằm tơ Việt Nam (VIETSERI).
+  - Cảm ơn sếp Shimazu, báo cáo hoàn thành nghiên cứu chi tiết kiểm dịch/hun trùng Thái Lan, lập danh bạ 71 công ty lụa & dệt may sợi VN, gửi bộ khảo sát tinh chế kén Eri.
+
 
 - **Danh bạ & Báo cáo Điều tra 53 Doanh nghiệp Dệt may - Vải sợi Việt Nam (vietnam_53_textile_companies_investigation_directory.md)**:
   - 53/53 doanh nghiệp đang hoạt động bình thường (🟢). Có đầy đủ MST, SĐT/Zalo & Địa chỉ trụ sở/nhà máy.
