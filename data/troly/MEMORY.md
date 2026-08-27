@@ -57,8 +57,11 @@
   - 4 loại tơ hoang dã: Eri (Kem - Peace Silk/Hàng hở), Muga (Vàng - Assam), Tasar (Nâu/Rừng), Yamamayu (Xanh - Nhật).
   - Tơ Eri là "Tơ xe" (Spun silk) vì kén hở miệng bướm chui ra làm đứt sợi, không thể kéo tơ sống (Filament).
   - Việt Nam: Bảo Lộc là Kinh đô tơ lụa; giống Eri-3.4 của Việt Nam được thế giới xếp hạng #1 về hiệu suất.
+- **Báo cáo 11 Hạng mục Tiếng Nhật Chuẩn Business cho 15 Doanh nghiệp Lụa Mới (full_15_silk_companies_11_column_japanese_report.md)**:
+  - Gồm 11 cột chính xác: 工房名, 所在地, 連絡先 (Zalo/TEL/Email), 法的登録情報 (MST), 規模 (Máy móc/Năng lực), 輸出経験 (Xuất khẩu Nhật/EU/Mỹ), 対応可否 (Gia công Eri/Spun Silk), 情報源リンク (Deep link), 営業状況 (🟢 営業中), 確認内容 (Giá trị chiến lược cho Taka-san), 調査日 (2026年8月27日).
 - **Danh bạ 15 Doanh nghiệp Tơ lụa & Kéo sợi Mới (Lọc trùng 100% không trùng list 18 công ty cũ) (new_silk_and_textile_companies_filtered_directory.md)**:
   - Tất cả 15 doanh nghiệp mới 100%. Đầy đủ SĐT, Zalo, Website & Ý nghĩa hợp tác với Taka-san: JSC Bao Loc Silk (đã xuất sang Nhật - 0913885923), Asia Silk (kéo sợi Spun Silk 200-2000 TPM - 0785969889), Viet Silk, VISERI x Matsumura Japan (liên doanh kéo sợi Spun Silk 85t/năm với Nhật), Lụa Triệu Văn Mão (Vạn Phúc), HTX Lụa Vạn Phúc, Hanosimex, Lụa Mã Châu Quảng Nam (0979003511), Dệt May Nha Trang, Profit Name, Dệt kim Đông Xuân, Dệt 8-3 (0986931936), Phong Phú Corp (0968099199), Sợi Thế Kỷ, Tongkook VN.
+
 - **Mẫu 企業へコメント (Comments to Host Company) Tiếng Nhật Ngày 26/8/2026 (comments_to_host_company_2026_08_26_jp.md)**:
   - Cảm ơn sếp Shimazu, báo cáo hoàn thành nghiên cứu chi tiết kiểm dịch/hun trùng Thái Lan, lập danh bạ 71 công ty lụa & dệt may sợi VN, gửi bộ khảo sát tinh chế kén Eri.
 
