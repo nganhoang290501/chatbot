@@ -1,4 +1,4 @@
-# Memory
+﻿# Memory
 
 ## Ongoing Projects
 - Japanese Marketing Seminar Prep (Postponed from 2026-03-31)
@@ -115,6 +115,12 @@
 
 
 
+
+- **Tiến độ Xử lý Nguyên liệu & Hợp tác Kỹ thuật VIETSERI (Trung tâm Nghiên cứu Dâu tằm tơ Trung ương - Ông Lê Hồng Vân)**:
+  - Vỏ kén tằm sắn phế liệu sau tách trứng có chứa xác nhộng chết, bẩn hữu cơ và mùi thối nếu không rửa trước khi phơi khô.
+  - Thử nghiệm máy nghiền 2 trục tại xưởng Thắng Nga không đạt hiệu quả tách lọc; làm sạch thủ công + Clorua vôi / Baking soda chưa đạt độ trắng tiêu chuẩn.
+  - VIETSERI đề nghị Silk Performance Lab LLC tư vấn quy trình tinh chế bằng Enzyme phân giải protein (Protease trong nước ấm) hoặc Kiềm nhẹ (Na2CO3) để giữ phẩm chất bông tơ và độ trắng xốp.
+  - Master Artifact: `vietseri_official_reply_translation_enzyme_degumming_ja_vi.md`.
 
 ## Decisions/Preferences
 - Prefers TikTok example for marketing discussions (Vietnam context).
