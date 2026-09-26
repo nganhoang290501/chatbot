@@ -122,6 +122,12 @@
   - VIETSERI đề nghị Silk Performance Lab LLC tư vấn quy trình tinh chế bằng Enzyme phân giải protein (Protease trong nước ấm) hoặc Kiềm nhẹ (Na2CO3) để giữ phẩm chất bông tơ và độ trắng xốp.
   - Master Artifact: `vietseri_official_reply_translation_enzyme_degumming_ja_vi.md`.
 
+- **Hợp Đồng Dịch Vụ Ủy Thác Silk Performance Lab LLC (01/10/2026 - 31/03/2027)**:
+  - Loại hợp đồng: 業務委託契約書 (Contract for Consulting Services).
+  - Lương: 30.000 JPY/tháng (chuyển qua WISE, công ty chịu phí chuyển tiền, trả vào ngày 30 tháng sau).
+  - Công việc: Vận hành SNS, ngoại thương/logistics, liên lạc nhà cung cấp VN, nghiên cứu thị trường.
+  - Hợp đồng ghi 32h/tháng (8h/tuần), đang đối chiếu với thỏa thuận email 20h/tháng (5h/tuần - 1.500 JPY/h).
+
 ## Decisions/Preferences
 - Prefers TikTok example for marketing discussions (Vietnam context).
 - Interests: Cooking (Nấu ăn).
