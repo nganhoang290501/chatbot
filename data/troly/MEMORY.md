@@ -128,6 +128,13 @@
   - Công việc: Vận hành SNS, ngoại thương/logistics, liên lạc nhà cung cấp VN, nghiên cứu thị trường.
   - Hợp đồng ghi 32h/tháng (8h/tuần), đang đối chiếu với thỏa thuận email 20h/tháng (5h/tuần - 1.500 JPY/h).
 
+- **Cẩm Nang Hồ Sơ & Thủ Tục Xin Visa Nhật Bản (Đầu Việt & Đầu Nhật)**:
+  - Phân vùng nộp: Miền Trung (Đà Nẵng, Huế...) nộp tại Tổng Lãnh sự quán Nhật Bản tại Đà Nẵng (50 Bạch Đằng) hoặc VFS Global Đà Nẵng.
+  - Visa Thương mại ngắn hạn (<90 ngày): Phía Nhật cấp Giấy lý do mời (招へい理由書), Lịch trình (滞在予定表), Giấy bảo lãnh (身元保証書), Sổ bộ pháp nhân (登記事項証明書). Phía Việt cấp Hộ chiếu, Tờ khai dán ảnh 4.5x3.5, Hợp đồng lao động/ủy thác, Quyết định cử đi công tác.
+  - Visa Lao động dài hạn (>90 ngày): Phía Nhật xin COE tại Cục Xuất Nhập Cảnh (ISA) -> Phía Việt nộp Hộ chiếu + Bản in COE điện tử + Bằng ĐH + Hợp đồng.
+  - Quy cách: Giấy A4 1 mặt, CẤM dập ghim bấm, giấy tờ phía Nhật có hạn 3 tháng.
+  - Master Artifact: `japan_visa_complete_guide_vietnam_and_japan_sides_vi.md`.
+
 ## Decisions/Preferences
 - Prefers TikTok example for marketing discussions (Vietnam context).
 - Interests: Cooking (Nấu ăn).
