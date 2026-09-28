@@ -1,4 +1,4 @@
-﻿# Memory
+# Memory
 
 ## Ongoing Projects
 - Japanese Marketing Seminar Prep (Postponed from 2026-03-31)
@@ -13,10 +13,11 @@
     2. Forest Silk™ Storytelling (Định vị thương hiệu Tơ lụa Rừng cho Gen Z/Millennials, Bản thảo Company Profile EN & VI).
     3. 競合調査レポート (Phân tích đối thủ quốc tế: LilySilk, Lunya, Spiber Brewed Protein, Ahimsa/Peace Silk).
 
-- **Chương trình Tokyo Internship (13/10/2026 ～ 11/12/2026)**:
-  - Doanh nghiệp Matching đề xuất: **丹波貿易株式会社** (Tamba Trading Co. Ltd. — [tamba-trading.com](https://tamba-trading.com/kentamba/))
-  - Ngành nghề: Thương mại quốc tế (Bán dẫn, PCB, Vật liệu điện tử, EC, IT AR/VR, Robot AGV, Human Resources).
-  - Trạng thái: ✅ **Đã điền Form & BTC đã xác nhận chính thức xúc tiến Matching với Tamba Trading (24/08)** | **Tỷ lệ đậu: 95%**.
+- **Kỳ thi BJT & Chuyến đi Hà Nội - Sa Pa (19/11/2026 ～ 22/11/2026)**:
+  - Mục tiêu: Thi chứng chỉ Tiếng Nhật Thương mại BJT (Business Japanese Proficiency Test) sáng 20/11 + Du lịch mùa đông Hà Nội & Săn mây Fansipan Sa Pa.
+  - Địa điểm thi đã chốt: **NetPro Training and Consulting Company Limited** (Tầng 1, 30 Trung Liệt, Đống Đa, Hà Nội).
+  - Nơi ở Hà Nội (1 đêm 19/11): Nhà nghỉ Minh Đức (Ngõ 79 Thái Hà) / Era Apartment (Ngõ 69 Trung Liệt) cách điểm thi 150m-200m đi bộ.
+  - Lộ trình: 19/11 Bay ra HN ➔ 20/11 Thi BJT (08:30-11:30), 13:00 Xe Cabin đi Sa Pa ➔ 21/11 Săn mây Fansipan & Cát Cát ➔ 22/11 Xe Cabin Sa Pa về thẳng Sân bay Nội Bài (19:30) ➔ Bay về Đà Nẵng.
 
 
 
