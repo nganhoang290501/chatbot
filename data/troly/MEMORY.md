@@ -149,6 +149,12 @@
   - JFT-Basic: Thi CBT Prometric hàng tháng cho Tokutei Ginou 1.
   - Master Artifact: `japanese_proficiency_exams_complete_guide_vi.md`.
 
+- **Kỳ Thi Tiếng Nhật Thực Hành J.TEST (Test of Practical Japanese)**:
+  - Ra đời 1991, ví như TOEIC tiếng Nhật. Cấp A-C (1.000đ quy đổi N2 đến trên N1 - Đặc cấp A 930+), Cấp D-E (N4-N3), Cấp F-G (N5).
+  - Tỷ lệ Nghe hiểu chiếm 50% tổng điểm + Có phần thi Viết tự luận (記述問題 100đ).
+  - Thi 6 lần/năm (tháng lẻ). Điểm thi tại ĐH Ngoại ngữ Đà Nẵng & ĐH Duy Tân.
+  - Master Artifact: `jtest_practical_japanese_exam_guide_vi.md`.
+
 ## Decisions/Preferences
 - Prefers TikTok example for marketing discussions (Vietnam context).
 - Interests: Cooking (Nấu ăn).
