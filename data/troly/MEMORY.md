@@ -155,6 +155,13 @@
   - Thi 6 lần/năm (tháng lẻ). Điểm thi tại ĐH Ngoại ngữ Đà Nẵng & ĐH Duy Tân.
   - Master Artifact: `jtest_practical_japanese_exam_guide_vi.md`.
 
+- **4 Kỳ Nhập Học Du Học Nhật Bản & Thời Gian Học Trường Tiếng**:
+  - Kỳ Tháng 4: Học 2 năm tròn (24 tháng) - Kỳ chính lớn nhất, tuyển sinh 100% trường, yêu cầu N5.
+  - Kỳ Tháng 7: Học 1 năm 9 tháng (21 tháng) - Yêu cầu N5 cứng/N4.
+  - Kỳ Tháng 10: Học 1 năm 6 tháng (18 tháng) - Kỳ lớn thứ hai, lý tưởng cho sinh viên tốt nghiệp ĐH/CĐ mùa hè tại VN.
+  - Kỳ Tháng 1: Học 1 năm 3 tháng (15 tháng) - Khóa ngắn nhất, yêu cầu tối thiểu N3 cứng.
+  - Master Artifact: `japan_study_abroad_intake_terms_and_durations_vi.md`.
+
 ## Decisions/Preferences
 - Prefers TikTok example for marketing discussions (Vietnam context).
 - Interests: Cooking (Nấu ăn).
