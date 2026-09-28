@@ -142,6 +142,13 @@
   - Tổng chi phí hoàn tất visa: Kỹ sư (~3.6 - 4.3 triệu VNĐ), Du học (~3.8 - 4.8 triệu VNĐ).
   - Master Artifact: `japan_visa_engineer_study_and_tb_screening_guide_vi.md`.
 
+- **Danh Mục 7 Kỳ Thi Tiếng Nhật Du Học & Đi Làm**:
+  - JLPT (N1-N5): Thi giấy 2 lần/năm (T7 & T12) tại ĐH Ngoại ngữ Đà Nẵng / Huế. Chuẩn mực quốc tế số 1.
+  - NAT-TEST (1Q-5Q): Thi giấy 6 lần/năm (tháng chẵn 2, 4, 6, 8, 10, 12). Bằng có sau 2-3 tuần, chuẩn nộp COE Du học.
+  - BJT (Thương mại): Thi CBT máy tính Pearson VUE quanh năm (có tại Đà Nẵng), biết điểm ngay, >=400đ tương đương N2, >=480đ tương đương N1.
+  - JFT-Basic: Thi CBT Prometric hàng tháng cho Tokutei Ginou 1.
+  - Master Artifact: `japanese_proficiency_exams_complete_guide_vi.md`.
+
 ## Decisions/Preferences
 - Prefers TikTok example for marketing discussions (Vietnam context).
 - Interests: Cooking (Nấu ăn).
