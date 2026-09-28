@@ -135,6 +135,13 @@
   - Quy cách: Giấy A4 1 mặt, CẤM dập ghim bấm, giấy tờ phía Nhật có hạn 3 tháng.
   - Master Artifact: `japan_visa_complete_guide_vietnam_and_japan_sides_vi.md`.
 
+- **Quy Định Khám Sàng Lọc Lao Phổi (JPETS) & Visa Kỹ Sư / Du Học Nhật Bản**:
+  - Áp dụng từ 01/09/2025 cho visa cư trú Trung & Dài hạn (>90 ngày có COE như Kỹ sư, Du học).
+  - MIỄN HOÀN TOÀN cho visa ngắn hạn (<90 ngày như Thương mại/Công tác, Du lịch, Thăm thân). Miễn tạm thời cho JET, MEXT...
+  - Chi phí khám lao phổi: ~105 - 120 USD (~2.600.000đ - 3.000.000 VNĐ) tại IOM (Hà Nội, TP.HCM), DYM, Chợ Rẫy.
+  - Tổng chi phí hoàn tất visa: Kỹ sư (~3.6 - 4.3 triệu VNĐ), Du học (~3.8 - 4.8 triệu VNĐ).
+  - Master Artifact: `japan_visa_engineer_study_and_tb_screening_guide_vi.md`.
+
 ## Decisions/Preferences
 - Prefers TikTok example for marketing discussions (Vietnam context).
 - Interests: Cooking (Nấu ăn).
