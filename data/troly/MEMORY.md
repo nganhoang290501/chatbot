@@ -173,6 +173,8 @@
   - Từ #6 (30/09/2026): **コラボする (Korabo suru)**: Hợp tác, bắt tay làm sản phẩm/chiến dịch kết hợp (To collaborate / Team up). Điển hình: `コラボ商品`, `コラボ企画`, `異業種コラボ`.
   - Từ #7 (30/09/2026): **商品カテゴリ (Shouhin kategori)**: Danh mục sản phẩm, nhóm ngành hàng (Product category). Điển hình: `大カテゴリ`, `中カテゴリ`, `小カテゴリ`.
   - Từ #8 (30/09/2026): **ハッシュタグ (Hasshutagu)**: Thẻ hashtag `#` trên SNS (Hashtag). Điển hình: `ハッシュタグキャンペーン`, `トレンド入りする`.
+  - Từ #9 (30/09/2026): **サステナブル (Sasutenaburu)**: Phát triển bền vững lâu dài (Sustainable / 持続可能). Điển hình: `サステナブル素材`, `サステナビリティ`.
+  - Từ #10 (30/09/2026): **エコ (Eko)**: Thân thiện môi trường, tiết kiệm tài nguyên (Eco-friendly). Điển hình: `エコバッグ`, `エコ雑貨`, `省エネ`.
 
 ## Decisions/Preferences
 - Prefers TikTok example for marketing discussions (Vietnam context).
