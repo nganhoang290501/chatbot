@@ -166,6 +166,8 @@
 - **Chuyên Mục Học Từ Vựng Tiếng Nhật Mỗi Ngày (Daily Vocabulary Practice)**:
   - Quy tắc: Chị Ngân gửi từ vựng mới mỗi ngày vào chat, Nịi giải thích chuyên sâu ngữ nghĩa, sắc thái, cách dùng thực tế trong đời sống & Business, kèm ví dụ cụ thể.
   - Từ #1 (30/09/2026): **目安 (めやす - Meyasu)**: Mốc ước tính, tiêu chuẩn áng chừng, căn cứ tham chiếu (Rough guideline/benchmark). Ví dụ: `〜を目安に` (Lấy mốc khoảng...), `納期の目安` (Tiến độ dự kiến).
+  - Từ #2 (30/09/2026): **ぬいぐるみ (Nuigurumi / 縫いぐるみ)**: Thú nhồi bông, gấu bông (Plush toy / Stuffed animal).
+  - Từ #3 (30/09/2026): **雑貨 (ざっか - Zakka)**: Đồ bách hóa phong cách sống, đồ decor/tiện ích đời sống & phụ kiện nhân vật (Lifestyle & Sundries goods).
 
 ## Decisions/Preferences
 - Prefers TikTok example for marketing discussions (Vietnam context).
