@@ -176,6 +176,7 @@
   - Từ #9 (30/09/2026): **サステナブル (Sasutenaburu)**: Phát triển bền vững lâu dài (Sustainable / 持続可能). Điển hình: `サステナブル素材`, `サステナビリティ`.
   - Từ #10 (30/09/2026): **エコ (Eko)**: Thân thiện môi trường, tiết kiệm tài nguyên (Eco-friendly). Điển hình: `エコバッグ`, `エコ雑貨`, `省エネ`.
   - Từ #11 (30/09/2026): **プラットフォーム (Purattofoomu)**: Nền tảng kỹ thuật số / hệ sinh thái kinh doanh (Platform). Điển hình: `SNSプラットフォーム`, `プラットフォームビジネス`.
+  - Từ #12 (30/09/2026): **エンゲージメント (Engējimento)**: Mức độ tương tác / Tỷ lệ gắn kết sâu sắc (Engagement). Điển hình: `エンゲージメント率 (ER)`, `従業員エンゲージメント`.
 
 ## Decisions/Preferences
 - Prefers TikTok example for marketing discussions (Vietnam context).
