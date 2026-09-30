@@ -168,6 +168,7 @@
   - Từ #1 (30/09/2026): **目安 (めやす - Meyasu)**: Mốc ước tính, tiêu chuẩn áng chừng, căn cứ tham chiếu (Rough guideline/benchmark). Ví dụ: `〜を目安に` (Lấy mốc khoảng...), `納期の目安` (Tiến độ dự kiến).
   - Từ #2 (30/09/2026): **ぬいぐるみ (Nuigurumi / 縫いぐるみ)**: Thú nhồi bông, gấu bông (Plush toy / Stuffed animal).
   - Từ #3 (30/09/2026): **雑貨 (ざっか - Zakka)**: Đồ bách hóa phong cách sống, đồ decor/tiện ích đời sống & phụ kiện nhân vật (Lifestyle & Sundries goods).
+  - Từ #4 (30/09/2026): **一貫して (いっかんして - Ikkan shite)**: Xuyên suốt, nhất quán từ đầu đến cuối, trước sau như một (Consistently / Throughout). Điển hình: `一貫した方針`, `一貫生産体制`.
 
 ## Decisions/Preferences
 - Prefers TikTok example for marketing discussions (Vietnam context).
