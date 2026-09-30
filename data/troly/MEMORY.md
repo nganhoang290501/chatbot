@@ -163,9 +163,15 @@
   - Kỳ Tháng 1: Học 1 năm 3 tháng (15 tháng) - Khóa ngắn nhất, yêu cầu tối thiểu N3 cứng.
   - Master Artifact: `japan_study_abroad_intake_terms_and_durations_vi.md`.
 
+- **Chuyên Mục Học Từ Vựng Tiếng Nhật Mỗi Ngày (Daily Vocabulary Practice)**:
+  - Quy tắc: Chị Ngân gửi từ vựng mới mỗi ngày vào chat, Nịi giải thích chuyên sâu ngữ nghĩa, sắc thái, cách dùng thực tế trong đời sống & Business, kèm ví dụ cụ thể.
+  - Từ #1 (30/09/2026): **目安 (めやす - Meyasu)**: Mốc ước tính, tiêu chuẩn áng chừng, căn cứ tham chiếu (Rough guideline/benchmark). Ví dụ: `〜を目安に` (Lấy mốc khoảng...), `納期の目安` (Tiến độ dự kiến).
+
 ## Decisions/Preferences
 - Prefers TikTok example for marketing discussions (Vietnam context).
 - Interests: Cooking (Nấu ăn).
 - Favorite Idol: Jimin (BTS).
 - Name: Ngân (Japanese Name: ホアン・ゴック・トゥ・ガン). Assistant: Niji (虹) 🌈.
+- Phương pháp học tiếng Nhật: Thích giải thích rõ nghĩa gốc, phân biệt từ gần nghĩa và ví dụ thực tế chuẩn bối cảnh giao tiếp / Business Nhật Bản.
+
 
