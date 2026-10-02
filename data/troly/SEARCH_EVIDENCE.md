@@ -45,6 +45,11 @@ Khi Chị Ngân yêu cầu tìm kiếm thông tin hoặc chứng cứ, hãy phâ
 
 ### 2. Định dạng Link & Nội dung hiển thị (Deep Link & Visible Body Content)
 - Link chứng cứ **bắt buộc là Deep Link** đến bài viết/văn bản chi tiết, không dùng link trang chủ chung chung (`https://jetro.go.jp` là KHÔNG ĐẠT).
+- **Đặc biệt với các chiến dịch thời vụ (Seasonal Campaigns của Lawson/DCP/IP)**: Do các subpath ngắn hạn dễ bị đóng sau khi hết hạn chiến dịch, Nịi **phải kiểm tra 100% bằng `read_url_content` (Status 200 OK)** và cung cấp:
+  1. Link Cổng chiến dịch thường trực: `https://www.lawson.co.jp/campaign/` (Lawson Entertainment & Campaign Portal).
+  2. Cổng sản phẩm & MD chính thức do DCP vận hành: `https://kujist.jp/goods`, `https://kujist.jp/news`.
+  3. Cổng tin tức chính thức của Tập đoàn Lawson trên PR TIMES: `https://prtimes.jp/topics/keywords/%E3%83%AD%E3%83%BC%E3%82%BD%E3%83%B3`.
+  4. Cổng chính thức của từng IP bản quyền: `ghibli-museum.jp/ticket/`, `sanrio.co.jp/news/`, `san-x.co.jp/`, `moomin.co.jp/`, `dickbruna.jp/`, `hololive.hololivepro.com/`.
 - Đoạn trích dẫn **phải nằm ở phần nội dung hiển thị (Visible Body Content)** người dùng đọc được ngay khi mở link, không trích từ thẻ ẩn `<meta>` hay mã script.
 - **Nguyên văn 100% (Exact Substring)**: Không tự ý diễn dịch lại (paraphrase), không thay đổi từ ngữ từ văn bản gốc trong khối chứng cứ.
 
