@@ -1,0 +1,179 @@
+' ==============================================================
+' VBA MACRO TỰ ĐỘNG TẠO 18 SLIDE POWERPOINT ÔN TẬP TIẾNG NHẬT
+' Cách dùng: Mở PowerPoint -> Bấm Alt + F11 -> Insert -> Module ->
+' Dán toàn bộ mã này vào -> Bấm F5 (Run) để tạo slide trong 2 giây!
+' ==============================================================
+
+Sub CreateJapaneseReviewSlides()
+    Dim pptApp As PowerPoint.Application
+    Dim pptPres As PowerPoint.Presentation
+    Dim slideIndex As Integer
+    Dim oSlide As PowerPoint.Slide
+    Dim oShape As PowerPoint.Shape
+    
+    Set pptPres = ActivePresentation
+    
+    ' SLIDE 1: Title
+    Set oSlide = pptPres.Slides.Add(1, ppLayoutTitle)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "マスター・日本語の文字と発音"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "ÔN TẬP TỔNG HỢP: HIRAGANA, KATAKANA & TOÀN BỘ NGỮ ÂM" & vbCrLf & "Giảng viên: Sensei Thu Ngân"
+    
+    ' SLIDE 2: Muc tieu
+    Set oSlide = pptPres.Slides.Add(2, ppLayoutText)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "MỤC TIÊU BUỔI ÔN TẬP"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "1. Nhớ mặt chữ 100%: Quét sạch mọi nhầm lẫn giữa Hiragana & Katakana." & vbCrLf & _
+        "2. Nắm vững trọn bộ quy tắc ngữ âm: Âm đục (゛), âm bán đục (゜), âm ghép (ゃ,ゅ,ょ), âm ngắt (っ) & trường âm." & vbCrLf & _
+        "3. Phản xạ đọc thực tế: Tự tin đọc biển hiệu, menu và từ Katakana mượn tiếng Anh." & vbCrLf & _
+        "4. Sẵn sàng 100% bước vào Bài 1 Minna no Nihongo!"
+
+    ' SLIDE 3: 5 Nguyen am
+    Set oSlide = pptPres.Slides.Add(3, ppLayoutText)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "BỨC TRANH TOÀN CẢNH: 5 NGUYÊN ÂM CỐT LÕI"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "Mọi âm tiết trong tiếng Nhật đều xoay quanh 5 nguyên âm chính:" & vbCrLf & _
+        "• A (あ / ア): Miệng mở vừa, âm phát tự nhiên" & vbCrLf & _
+        "• I (い / イ): Miệng bè sang 2 bên như đang cười" & vbCrLf & _
+        "• U (う / ウ): Môi hơi tròn, KHÔNG chu mỏ như tiếng Việt" & vbCrLf & _
+        "• E (え / エ): Nằm giữa âm 'e' và 'ê'" & vbCrLf & _
+        "• O (お / オ): Môi tròn khum nhẹ, âm tròn trịa"
+
+    ' SLIDE 4: Bay Hiragana 1
+    Set oSlide = pptPres.Slides.Add(4, ppLayoutText)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "BẪY CHỮ DỄ NHẦM TRONG HIRAGANA (P1)"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "• あ (a) vs お (o): あ nét bụng tròn không chấm; お có dấu chấm bên phải!" & vbCrLf & _
+        "• い (i) vs り (ri): い nét trái dài hơn; り nét phải dài và cong hơn." & vbCrLf & _
+        "• さ (sa) vs ち (chi): さ bụng móc sang PHẢI; ち bụng móc sang TRÁI (giống số 5)."
+
+    ' SLIDE 5: Bay Hiragana 2
+    Set oSlide = pptPres.Slides.Add(5, ppLayoutText)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "BẪY CHỮ DỄ NHẦM TRONG HIRAGANA (P2)"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "• わ (wa): Lưng uốn tròn trịa mộc mạc (わたし)" & vbCrLf & _
+        "• れ (re): Đuôi đá cong hất ra ngoài (これ)" & vbCrLf & _
+        "• ね (ne): Đuôi cuộn tròn thắt nút như đuôi mèo (neko - ねこ)" & vbCrLf & _
+        "• る (ru) vs ろ (ro): る có vòng thắt nút ở đuôi; ろ lưng trống không thắt nút."
+
+    ' SLIDE 6: Bo tu Katakana
+    Set oSlide = pptPres.Slides.Add(6, ppLayoutText)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "BỘ TỨ HUYỀN THOẠI KATAKANA: シ - ツ - ン - ソ"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "🔥 MẸO THẦN CHÚ: Nằm ngang hất LÊN là SHI & N — Đứng dọc vuốt XUỐNG là TSU & SO" & vbCrLf & _
+        "1. シ (shi) vs ツ (tsu):" & vbCrLf & _
+        "   - シ (shi): 2 nét chấm nằm ngang, nét phẩy kéo TỪ DƯỚI HẤT LÊN." & vbCrLf & _
+        "   - ツ (tsu): 2 nét chấm đứng dọc, nét phẩy vuốt TỪ TRÊN XUỐNG DƯỚI." & vbCrLf & _
+        "2. ン (n) vs ソ (so):" & vbCrLf & _
+        "   - ン (n): Nét chấm nằm ngang, vuốt TỪ DƯỚI HẤT LÊN." & vbCrLf & _
+        "   - ソ (so): Nét chấm đứng, vuốt TỪ TRÊN XUỐNG DƯỚI."
+
+    ' SLIDE 7: Katakana de nham khac
+    Set oSlide = pptPres.Slides.Add(7, ppLayoutText)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "CÁC CẶP CHỮ KATAKANA DỄ NHẦM KHÁC"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "• ク (ku) vs ワ (wa): ク nét trái phẩy nghiêng; ワ nét trái thẳng đứng vuông góc." & vbCrLf & _
+        "• コ (ko) vs ユ (yu): コ vuông góc khép hờ; ユ nét ngang kéo dài lọt ra ngoài." & vbCrLf & _
+        "• ヌ (nu) vs ス (su): ヌ có nét phẩy chéo cắt qua; ス không có nét chéo ở đuôi."
+
+    ' SLIDE 8: Am duc & Ban duc
+    Set oSlide = pptPres.Slides.Add(8, ppLayoutText)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "ÂM ĐỤC (゛) VÀ ÂM BÁN ĐỤC (゜)"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "• Hàng KA (か) + ゛ ➔ GA (が, ぎ, ぐ, げ, ご) -> かぎ (chìa khóa)" & vbCrLf & _
+        "• Hàng SA (さ) + ゛ ➔ ZA (ざ, じ [ji], ず, ぜ, ぞ) -> みず (nước)" & vbCrLf & _
+        "• Hàng TA (た) + ゛ ➔ DA (だ, ぢ [ji], づ [zu], で, ど) -> でんき (điện)" & vbCrLf & _
+        "• Hàng HA (は) + ゛ ➔ BA (ば, び, ぶ, べ, ぼ) -> ビール (bia)" & vbCrLf & _
+        "• Hàng HA (は) + ゜ ➔ PA (ぱ, ぴ, ぷ, ぺ, ぽ) -> パン (bánh mì)"
+
+    ' SLIDE 9: Am ghep
+    Set oSlide = pptPres.Slides.Add(9, ppLayoutText)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "ÂM GHÉP (拗音 - ゃ, ゅ, ょ NHỎ)"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "Quy tắc: Cột hàng 「I」 kết hợp ゃ, ゅ, ょ nhỏ (bằng 1/2 chữ thường):" & vbCrLf & _
+        "• き (ki) ➔ きゃ (kya), きゅ (kyu), きょ (kyo) ➔ きょう (hôm nay)" & vbCrLf & _
+        "• し (shi) ➔ しゃ (sha), しゅ (shu), しょ (sho) ➔ しゃしん (ảnh)" & vbCrLf & _
+        "• ち (chi) ➔ ちゃ (cha), ちゅ (chu), ちょ (cho) ➔ おちゃ (trà xanh)" & vbCrLf & _
+        "• じ (ji) ➔ じゃ (ja), じゅ (ju), じょ (jo) ➔ じゅぎょう (tiết học)"
+
+    ' SLIDE 10: Am ngat
+    Set oSlide = pptPres.Slides.Add(10, ppLayoutText)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "ÂM NGẮT (促音 - っ / ッ NHỎ)"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "Biểu thị bằng chữ つ/ツ nhỏ, tạo khoảng dừng bằng 1 nhịp thở:" & vbCrLf & _
+        "• KHÔNG có âm ngắt: きて (hãy đến) | いた (đã ở) | まち (khu phố)" & vbCrLf & _
+        "• CÓ âm ngắt (ĐỔI NGHĨA):" & vbCrLf & _
+        "   - きって (kitte): Con tem" & vbCrLf & _
+        "   - いった (itta): Đã đi" & vbCrLf & _
+        "   - ベッド (beddo): Cái giường" & vbCrLf & _
+        "   - きっぷ (kippu): Vé tàu xe"
+
+    ' SLIDE 11: Truong am Hiragana
+    Set oSlide = pptPres.Slides.Add(11, ppLayoutText)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "TRƯỜNG ÂM (長音) TRONG HIRAGANA"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "Trường âm là âm kéo dài 2 nhịp hơi:" & vbCrLf & _
+        "• Cột A + あ: おかあさん (okaasan - mẹ)" & vbCrLf & _
+        "• Cột I + い: おにいさん (oniisan - anh trai)" & vbCrLf & _
+        "• Cột U + う: ぎゅうにゅう (gyuunyuu - sữa)" & vbCrLf & _
+        "• Cột E + え/い: おねえさん / せんせい (sensei)" & vbCrLf & _
+        "• Cột O + う/お: おとうさん (otousan) / おおきい" & vbCrLf & _
+        "⚠️ Cảnh báo bẫy nghĩa: おばさん (cô/bác) ≠ おばあさん (bà) | ゆき (tuyết) ≠ ゆうき (dũng khí)"
+
+    ' SLIDE 12: Truong am Katakana
+    Set oSlide = pptPres.Slides.Add(12, ppLayoutText)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "TRƯỜNG ÂM KATAKANA (DẤU GẠCH ー)"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "Mọi trường âm Katakana đều biểu thị bằng dấu gạch ngang 「ー」:" & vbCrLf & _
+        "• コーヒー (kōhī): Cà phê" & vbCrLf & _
+        "• タクシー (takushī): Xe Taxi" & vbCrLf & _
+        "• スーパー (sūpā): Siêu thị" & vbCrLf & _
+        "• ケーキ (kēki): Bánh ngọt" & vbCrLf & _
+        "• ノート (nōto): Vở ghi bài"
+
+    ' SLIDE 13: Am mui & Tro tu
+    Set oSlide = pptPres.Slides.Add(13, ppLayoutText)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "ÂM MŨI 「ん/ン」 & TRỢ TỪ NGOẠI LỆ"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "1. Phát âm chữ 「ん」:" & vbCrLf & _
+        "   - Đọc là /m/ trước p, b, m: えんぴつ (bút chì), さんぽ (đi dạo)" & vbCrLf & _
+        "   - Đọc là /n/ trước t, d, n: せんせい (giáo viên)" & vbCrLf & _
+        "   - Đọc là /ng/ ở cuối từ hoặc trước k, g: にほん (Nhật Bản), まんが" & vbCrLf & _
+        "2. Ba trợ từ ngoại lệ:" & vbCrLf & _
+        "   - は ➔ Đọc là [WA] (わたしは ~)" & vbCrLf & _
+        "   - へ ➔ Đọc là [E] (日本へ いきます)" & vbCrLf & _
+        "   - を ➔ Đọc là [O] (みずを のみます)"
+
+    ' SLIDE 14: Minigame 1
+    Set oSlide = pptPres.Slides.Add(14, ppLayoutText)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "MINIGAME 1: TINH MẮT NHANH TAY!"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "Sensei đọc âm - Học viên hô to ô chữ chính xác trong 3 giây:" & vbCrLf & _
+        "1. Tìm chữ シ (shi): [1] ツ | [2] シ | [3] ソ" & vbCrLf & _
+        "2. Tìm chữ れ (re):  [1] ね | [2] わ | [3] れ" & vbCrLf & _
+        "3. Tìm chữ ク (ku):  [1] ワ | [2] ク | [3] ケ" & vbCrLf & _
+        "4. Tìm chữ ソ (so):  [1] ン | [2] ソ | [3] リ" & vbCrLf & _
+        "5. Tìm chữ ヌ (nu):  [1] ス | [2] ヌ | [3] フ"
+
+    ' SLIDE 15: Minigame 2
+    Set oSlide = pptPres.Slides.Add(15, ppLayoutText)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "MINIGAME 2: GIẢI MÃ TỪ VỰNG KATAKANA!"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "Đọc to từ Katakana và đoán nghĩa tiếng Việt:" & vbCrLf & _
+        "1. カメラ (kamera) ➔ Máy chụp ảnh" & vbCrLf & _
+        "2. ホテル (hoteru) ➔ Khách sạn du lịch" & vbCrLf & _
+        "3. エレベーター (erebētā) ➔ Thang máy" & vbCrLf & _
+        "4. チョコレート (chokorēto) ➔ Kẹo Socola" & vbCrLf & _
+        "5. アイスクリーム (aisukurīmu) ➔ Kem mát lạnh" & vbCrLf & _
+        "6. レストラン (resutoran) ➔ Nhà hàng"
+
+    ' SLIDE 16: Minigame 3
+    Set oSlide = pptPres.Slides.Add(16, ppLayoutText)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "MINIGAME 3: VẠCH LÁ TÌM SÂU (ĐÚNG HAY SAI?)"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "1. きつて (kitte - con tem) ➔ SAI (Phải là っ nhỏ: きって)" & vbCrLf & _
+        "2. せんせえ (sensei - giáo viên) ➔ SAI (Trường âm cột e viết là い: せんせい)" & vbCrLf & _
+        "3. コヒ (kōhī - cà phê) ➔ SAI (Thiếu 2 trường âm: コーヒー)" & vbCrLf & _
+        "4. びょういん (byouin - bệnh viện) ➔ ĐÚNG 100%!"
+
+    ' SLIDE 17: 5 Cau giao tiep
+    Set oSlide = pptPres.Slides.Add(17, ppLayoutText)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "5 CÂU GIAO TIẾP VÀNG KHỞI ĐỘNG BÀI HỌC"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "1. おはようございます (Ohayou gozaimasu) ➔ Chào buổi sáng" & vbCrLf & _
+        "2. こんにちは (Konnichiwa) ➔ Chào buổi trưa / chiều" & vbCrLf & _
+        "3. こんばんは (Konbanwa) ➔ Chào buổi tối" & vbCrLf & _
+        "4. ありがとうございます (Arigatou gozaimasu) ➔ Xin cảm ơn" & vbCrLf & _
+        "5. すみません (Sumimasen) ➔ Xin lỗi / Làm ơn cho tôi hỏi"
+
+    ' SLIDE 18: Ket thuc
+    Set oSlide = pptPres.Slides.Add(18, ppLayoutTitle)
+    oSlide.Shapes(1).TextFrame.TextRange.Text = "おめでとうございます！"
+    oSlide.Shapes(2).TextFrame.TextRange.Text = "Chúc mừng cả lớp đã chinh phục thành công 2 bảng chữ cái!" & vbCrLf & _
+        "🚀 Buổi sau: Khởi động BÀI 1 MINNA NO NIHONGO (A は B です)"
+        
+    MsgBox "Hoàn thành! Đã tạo xong 18 Slide ôn tập Tiếng Nhật cực kỳ đẹp mắt!", vbInformation, "Sensei Thu Ngân"
+End Sub

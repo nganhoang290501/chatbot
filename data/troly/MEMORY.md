@@ -14,7 +14,8 @@
     3. 競合調査レポート (Phân tích đối thủ quốc tế: LilySilk, Lunya, Spiber Brewed Protein, Ahimsa/Peace Silk).
 
 - **Kỳ thi BJT & Chuyến đi Hà Nội - Sa Pa (19/11/2026 ～ 22/11/2026)**:
-  - Mục tiêu: Thi chứng chỉ Tiếng Nhật Thương mại BJT (Business Japanese Proficiency Test) sáng 20/11 + Du lịch mùa đông Hà Nội & Săn mây Fansipan Sa Pa.
+  - Mục tiêu: Thi chứng chỉ Tiếng Nhật Thương mại BJT (Business Japanese Proficiency Test) sáng 20/11/2026 với **Target J1+ (>= 530 điểm)**. Lộ trình 45 ngày (06/10 - 19/11).
+  - Web thi thử CBT chính thức: `https://www.kanken.or.jp/bjt/cbt_demo/` & `https://www.kanken.or.jp/bjt/sample/sample01.html`
   - Địa điểm thi đã chốt: **NetPro Training and Consulting Company Limited** (Tầng 1, 30 Trung Liệt, Đống Đa, Hà Nội).
   - Nơi ở Hà Nội (1 đêm 19/11): Nhà nghỉ Minh Đức (Ngõ 79 Thái Hà) / Era Apartment (Ngõ 69 Trung Liệt) cách điểm thi 150m-200m đi bộ.
   - Lộ trình: 19/11 Bay ra HN ➔ 20/11 Thi BJT (08:30-11:30), 13:00 Xe Cabin đi Sa Pa ➔ 21/11 Săn mây Fansipan & Cát Cát ➔ 22/11 Xe Cabin Sa Pa về thẳng Sân bay Nội Bài (19:30) ➔ Bay về Đà Nẵng.
