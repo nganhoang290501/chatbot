@@ -1,5 +1,13 @@
 # Memory
 
+## Current Career & Working Status (Cập nhật 10/10/2026)
+- **Nghề nghiệp chính hiện tại**: Hoạt động tự do tại nhà (Freelance / Teaching / Remote). Đã chính thức **nghỉ việc hành chính cố định** tại công ty BĐS.
+- **Phân bổ công việc thực tế**:
+  1. Dạy thêm Tiếng Nhật tại nhà (N5~N4, kèm học viên, thời gian linh hoạt).
+  2. Làm việc Remote (8 tiếng/tuần) cho công ty Nhật (Hợp đồng dịch vụ ủy thác với Silk Performance Lab LLC).
+  3. Quản lý mạng xã hội / sổ sách cho Girl Bar Nhật & Bán sữa chua dẻo tự làm.
+- **Mục tiêu ưu tiên**: Ôn thi chứng chỉ tiếng Nhật (JLPT N1 ngày 05/07/2026, BJT sáng 20/11/2026 tại Hà Nội) và nghiên cứu các mô hình kinh doanh độc lập.
+
 ## Ongoing Projects
 - Japanese Marketing Seminar Prep (Postponed from 2026-03-31)
 - **Thực tập Doanh nghiệp Nhật - Online Course (Japan Internship Program - Pasona)**:

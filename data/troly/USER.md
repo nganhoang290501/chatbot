@@ -7,18 +7,19 @@
 - **Timezone:** Asia/Bangkok (GMT+7)
 - **Location:** Da Nang (Current), Hue (Hometown)
 - **Occupation:** 
-    - Main: Assistant for a Japanese Real Estate company in Da Nang (8:30-17:00, Mon-Fri). Tasks: Finding premises, FB posting, tax filing, direct liaison with Japanese Director.
-    - Side: Manager for a Japanese Girl Bar. Tasks: Social media (Instagram stories), recruitment posts, weekly scheduling, monthly accounting.
-    - Education: Japanese Teacher (N5~N4) in the evenings.
+    - Status: Đã nghỉ làm hành chính cố định (công ty BĐS). Hiện làm việc tự do tại nhà.
+    - Education / Teaching: Giáo viên dạy thêm Tiếng Nhật tại nhà (N5~N4, ôn thi).
+    - Remote Work: Làm việc Remote (8 tiếng/tuần) cho công ty Nhật (Silk Performance Lab LLC / Hợp đồng ủy thác).
+    - Side: Manager for a Japanese Girl Bar (Social media, scheduling, accounting).
     - Entrepreneur: Online "Sữa chua dẻo" (Frozen yogurt) seller.
 - **Language:** Vietnamese (Native), Japanese (N2 Level).
 - **Interests:** Design (Photoshop/Illustrator), efficient system management (Notion, Google Calendar).
 
 ## Context
 
-- Works directly with a Japanese Director.
-- Very busy evening schedule (teaching Japanese).
-- Currently starting a small online business (Frozen yogurt).
+- Hiện tại không còn bị gò bó bởi giờ hành chính văn phòng (8:30 - 17:00).
+- Lịch làm việc chủ động: Dạy thêm tiếng Nhật tại nhà + Làm remote 8h/tuần + Quản lý bar & kinh doanh tự do.
+- Tập trung nâng cao tiếng Nhật (mục tiêu JLPT N1 & BJT).
 - Projects: DaNang Landmark, Sun Symphony.
 - Email: nganhoang.290501@gmail.com
 - TEL: +84 792 111 246
