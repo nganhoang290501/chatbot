@@ -5,8 +5,8 @@
 - **Phân bổ công việc thực tế**:
   1. Dạy thêm Tiếng Nhật tại nhà (N5~N4, kèm học viên, thời gian linh hoạt).
   2. Làm việc Remote (8 tiếng/tuần) cho công ty Nhật (Hợp đồng dịch vụ ủy thác với Silk Performance Lab LLC).
-  3. Quản lý mạng xã hội / sổ sách cho Girl Bar Nhật & Bán sữa chua dẻo tự làm.
-- **Mục tiêu ưu tiên**: Ôn thi chứng chỉ tiếng Nhật (JLPT N1 ngày 05/07/2026, BJT sáng 20/11/2026 tại Hà Nội) và nghiên cứu các mô hình kinh doanh độc lập.
+  3. **Kinh doanh Online mới (Đang nghiên cứu & chuẩn bị)**: Đã dừng hoàn toàn bán sữa chua dẻo (do trang cá nhân bị spam bóp tương tác) và đã nghỉ việc quản lý Girl Bar. Đang tìm kiếm sản phẩm & mô hình buôn bán online phù hợp để làm tại nhà.
+- **Mục tiêu ưu tiên**: Ôn thi chứng chỉ tiếng Nhật (JLPT N1 ngày 05/07/2026, BJT sáng 20/11/2026 tại Hà Nội) và thiết lập mô hình kinh doanh online bền vững.
 
 ## Ongoing Projects
 - Japanese Marketing Seminar Prep (Postponed from 2026-03-31)
@@ -54,9 +54,9 @@
     - Allowance 20,000 JPY thanh toán chuyển khoản trong 7 ngày làm việc sau khi trả thiết bị.
     - Bảo hiểm thiết bị chỉ áp dụng tại **Địa chỉ hiện tại** đã đăng ký.
 
-- **Kinh doanh Sữa chua dẻo nhà làm (Đà Nẵng Online - FB & Threads)**:
-  - Menu & Giá: Truyền thống (10k), Matcha (12k), Phô mai (13k), Sữa chua uống 300ml (20k).
-  - USP (3 KHÔNG): Không chất tạo đặc - Không kem béo - Không gelatin.
+- **Kinh doanh Sữa chua dẻo nhà làm (Đã dừng - Archived)**:
+  - Tình trạng: Đã ngừng bán hoàn toàn do trang cá nhân bị spam bóp tương tác.
+  - Bài học: Khi kinh doanh online tiếp theo, cần xây dựng kênh riêng biệt (Fanpage / Kênh TikTok / Shopee) thay vì dùng trang cá nhân chính để tránh rủi ro mất kênh/bị spam.
 
 
 
