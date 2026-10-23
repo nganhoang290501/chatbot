@@ -7,9 +7,10 @@
 - **Timezone:** Asia/Bangkok (GMT+7)
 - **Location:** Da Nang (Current), Hue (Hometown)
 - **Occupation:** 
-    - Status: Làm việc tự do tại nhà (Freelance / Teaching / Remote). Đã nghỉ làm hành chính cố định.
+    - Status: Đa nhiệm (Part-time Văn phòng HR Anabuki + Teaching + Remote Doanh nghiệp Nhật).
+    - Part-time Office Work: Nhân viên văn phòng - Hành chính nhân sự tại **HR ANABUKI VIETNAM CO.,LTD** (Bắt đầu từ 02/11/2026 tại 5F SOHO Building, 27-29 Lý Tự Trọng, Hải Châu, Đà Nẵng). Quản lý trực tiếp: Ms. Châu Thị Thuận.
     - Education / Teaching: Giáo viên dạy thêm Tiếng Nhật tại nhà (N5~N4, kèm học viên, luyện thi).
-    - Remote Work: Làm việc Remote (8 tiếng/tuần) cho công ty Nhật (Silk Performance Lab LLC / Hợp đồng ủy thác).
+    - Remote Work: Làm việc Remote (8 tiếng/tuần) cho công ty Nhật (Silk Performance Lab LLC / Hợp đồng ủy thác) & Hợp tác Cầu nối (Bridge) OEM/ODM may mặc.
     - New Project: Đang nghiên cứu ý tưởng kinh doanh / buôn bán online mới (đã dừng bán sữa chua dẻo do bị spam trang cá nhân; đã thôi quản lý Girl Bar).
 - **Language:** Vietnamese (Native), Japanese (N2 Level).
 - **Interests:** Design (Photoshop/Illustrator), efficient system management (Notion, Google Calendar), kinh doanh online.

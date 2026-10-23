@@ -1,14 +1,20 @@
 # Memory
 
-## Current Career & Working Status (Cập nhật 10/10/2026)
-- **Nghề nghiệp chính hiện tại**: Hoạt động tự do tại nhà (Freelance / Teaching / Remote). Đã chính thức **nghỉ việc hành chính cố định** tại công ty BĐS.
+## Current Career & Working Status (Cập nhật 23/10/2026)
+- **Nghề nghiệp chính hiện tại**: Đa nhiệm linh hoạt (Part-time Văn phòng Công ty Nhật + Teaching + Remote Silk Performance Lab LLC).
 - **Phân bổ công việc thực tế**:
-  1. Dạy thêm Tiếng Nhật tại nhà (N5~N4, kèm học viên, thời gian linh hoạt).
-  2. Làm việc Remote (8 tiếng/tuần) cho công ty Nhật (Hợp đồng dịch vụ ủy thác với Silk Performance Lab LLC).
-  3. **Kinh doanh Online mới (Đang nghiên cứu & chuẩn bị)**: Đã dừng hoàn toàn bán sữa chua dẻo (do trang cá nhân bị spam bóp tương tác) và đã nghỉ việc quản lý Girl Bar. Đang tìm kiếm sản phẩm & mô hình buôn bán online phù hợp để làm tại nhà.
-- **Mục tiêu ưu tiên**: Ôn thi chứng chỉ tiếng Nhật (JLPT N1 ngày 05/07/2026, BJT sáng 20/11/2026 tại Hà Nội) và thiết lập mô hình kinh doanh online bền vững.
+  1. **Job Mới (Bắt đầu 02/11/2026)**: Nhân viên văn phòng - Hành chính nhân sự (Part-time) tại **HR ANABUKI VIETNAM CO.,LTD** (5F Soho Building, 27-29 Lý Tự Trọng, Đà Nẵng). Quản lý trực tiếp: Ms. Châu Thị Thuận (0916735759).
+  2. Dạy thêm Tiếng Nhật tại nhà (N5~N4, kèm học viên, thời gian linh hoạt).
+  3. Làm việc Remote (8 tiếng/tuần) cho công ty Nhật (Hợp đồng dịch vụ ủy thác với Silk Performance Lab LLC) & Cầu nối xưởng may OEM/ODM tại VN cho thương hiệu PUNYUS.
+  4. **Kinh doanh Online mới (Đang nghiên cứu & chuẩn bị)**: Đã dừng hoàn toàn bán sữa chua dẻo và nghỉ việc quản lý Girl Bar. Đang tìm kiếm sản phẩm & mô hình buôn bán online phù hợp để làm tại nhà.
+- **Mục tiêu ưu tiên**: Hoàn thành xuất sắc công việc mới tại HR Anabuki, ôn thi chứng chỉ tiếng Nhật BJT sáng 20/11/2026 tại Hà Nội (Target J1+ >=530đ), thi JLPT N1 và hỗ trợ mảng may mặc cho Sếp Shimazu.
 
 ## Ongoing Projects
+- **Job Mới Part-time: HR Anabuki Việt Nam (Bắt đầu 02/11/2026)**:
+  - Vị trí: Nhân viên văn phòng - Hành chính nhân sự
+  - Địa chỉ: 5F - SOHO BUILDING, 27-29 Lý Tự Trọng, Hải Châu, Đà Nẵng
+  - Quản lý: Ms. Châu Thị Thuận (SĐT: 0916735759)
+  - Trạng thái: Đã nhận thư chúc mừng trúng tuyển chính thức ngày 23/10/2026. Chuẩn bị onboard ngày 02/11/2026.
 - Japanese Marketing Seminar Prep (Postponed from 2026-03-31)
 - **Thực tập Doanh nghiệp Nhật - Online Course (Japan Internship Program - Pasona)**:
   - Mã thực tập: `VN016005`
